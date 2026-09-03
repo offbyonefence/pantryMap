@@ -1,0 +1,11 @@
+# Code owners are automatically requested for review on matching PRs.
+# NOTE: replace the placeholder team below once the pantrymap org and a
+# maintainers team exist (Settings → Teams). Individual usernames also work:
+#   *  @your-username
+
+# Everything defaults to the maintainers team.
+*  @pantrymap/maintainers
+
+# Data changes are the most common PR; same owners, listed explicitly so the
+# rule survives if the default above is ever narrowed.
+/data/  @pantrymap/maintainers

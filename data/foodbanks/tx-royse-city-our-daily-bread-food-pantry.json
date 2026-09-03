@@ -1,0 +1,39 @@
+{
+  "id": "tx-royse-city-our-daily-bread-food-pantry",
+  "name": "Our Daily Bread Food Pantry (Royse City Methodist Church)",
+  "address": {
+    "street": "405 E Church St",
+    "city": "Royse City",
+    "state": "TX",
+    "zip": "75189"
+  },
+  "lat": 32.97699,
+  "lng": -96.32927,
+  "phone": "(972) 636-2291",
+  "website": "https://www.roysecitymethodist.life/local-missions",
+  "hours": [
+    {
+      "day": "thu",
+      "open": "17:30",
+      "close": "19:00"
+    },
+    {
+      "day": "sat",
+      "open": "09:00",
+      "close": "10:30"
+    }
+  ],
+  "hoursNotes": "Additional free-produce distributions on the 1st Monday 5–7pm and 3rd Monday 1–3pm.",
+  "services": [
+    "food-pantry",
+    "groceries"
+  ],
+  "requirements": "Serves the Royse City ISD area and surrounding communities including Fate, Nevada, Josephine, Caddo Mills, and Union Valley. Photo ID preferred but not always required.",
+  "idRequired": false,
+  "appointmentRequired": false,
+  "serviceAreaRestricted": true,
+  "affiliation": "Methodist",
+  "notes": "Full-service drive-up pantry; North Texas Food Bank partner agency.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://sites.vivery.org/our-daily-bread-royse-city/royse-city-tx/13505"
+}

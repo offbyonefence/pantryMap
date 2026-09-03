@@ -1,0 +1,42 @@
+name: Add a food bank
+description: Suggest a food bank or pantry to add — no coding needed, a maintainer will do the rest.
+title: "Add: "
+labels: [data, add]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping! Fill in what you know — only the name and address are required.
+        Please only suggest organizations that serve everyone; religious participation may
+        never be required to receive food.
+  - type: input
+    id: name
+    attributes:
+      label: Organization name
+    validations:
+      required: true
+  - type: input
+    id: address
+    attributes:
+      label: Street address (the pantry location people visit)
+      placeholder: "123 Main St, Dallas, TX 75201"
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Website
+  - type: input
+    id: phone
+    attributes:
+      label: Phone
+  - type: textarea
+    id: hours
+    attributes:
+      label: Distribution hours
+      placeholder: "Mon-Fri 9am-1pm, 2nd Saturday of the month 10am-noon"
+  - type: textarea
+    id: details
+    attributes:
+      label: Anything else?
+      placeholder: "ID required? Appointment needed? Service area limits? What services (pantry, hot meals, SNAP help)?"

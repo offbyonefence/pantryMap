@@ -1,0 +1,49 @@
+{
+  "id": "tx-allen-all-community-outreach",
+  "name": "All Community Outreach (ACO)",
+  "address": {
+    "street": "801 E Main St",
+    "city": "Allen",
+    "state": "TX",
+    "zip": "75002",
+    "street2": "Suite C"
+  },
+  "lat": 33.10025,
+  "lng": -96.65183,
+  "phone": "972-727-9131",
+  "website": "https://www.acocares.org/",
+  "hours": [
+    {
+      "day": "mon",
+      "open": "12:00",
+      "close": "15:00"
+    },
+    {
+      "day": "tue",
+      "open": "14:00",
+      "close": "18:00"
+    },
+    {
+      "day": "thu",
+      "open": "09:00",
+      "close": "13:00"
+    },
+    {
+      "day": "fri",
+      "open": "11:00",
+      "close": "13:00"
+    }
+  ],
+  "hoursNotes": "Mon/Tue/Thu are choice-shopping appointments; Friday is drive-thru pickup. Visits by appointment after online application approval.",
+  "services": [
+    "food-pantry",
+    "clothing",
+    "other"
+  ],
+  "requirements": "Complete the online application; approved clients may shop once per month. Serves Collin County residents. For emergency food, call or visit during business hours.",
+  "appointmentRequired": true,
+  "serviceAreaRestricted": true,
+  "notes": "Formerly Allen Community Outreach. Also offers rent and utility assistance, GED classes, and career services.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://www.acocares.org/find-help/"
+}

@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+set -euo pipefail
+#MISE description="Run every linter"
+#MISE depends=["lint:data", "lint:js"]
+
+echo "All lint checks passed."

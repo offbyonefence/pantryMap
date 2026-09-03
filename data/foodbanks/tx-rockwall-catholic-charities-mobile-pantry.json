@@ -1,0 +1,27 @@
+{
+  "id": "tx-rockwall-catholic-charities-mobile-pantry",
+  "name": "Catholic Charities Mobile Pantry at Our Lady of the Lake",
+  "address": {
+    "street": "1305 Damascus Rd",
+    "city": "Rockwall",
+    "state": "TX",
+    "zip": "75087"
+  },
+  "lat": 32.91333,
+  "lng": -96.45764,
+  "phone": "(866) 223-7500",
+  "website": "https://www.ccdallas.org/services/food-services/",
+  "hoursNotes": "Monthly drive-up distributions: 3rd Tuesday at 9am and 4th Saturday at 9am, while supplies last. Line up in the parking lot up to one hour before start.",
+  "services": [
+    "mobile-pantry",
+    "groceries"
+  ],
+  "requirements": "Free and open to the community; basic registration info collected. A friend or family member may pick up on your behalf.",
+  "idRequired": false,
+  "appointmentRequired": false,
+  "serviceAreaRestricted": false,
+  "affiliation": "Catholic",
+  "notes": "Operated by Catholic Charities Dallas in partnership with the North Texas Food Bank; fresh fruits, vegetables, and other food at no cost.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://www.ccdallas.org/services/food-services/"
+}

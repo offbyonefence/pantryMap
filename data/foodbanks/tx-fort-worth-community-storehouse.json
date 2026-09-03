@@ -1,0 +1,70 @@
+{
+  "id": "tx-fort-worth-community-storehouse",
+  "name": "Community Storehouse",
+  "address": {
+    "street": "12001 Katy Rd",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76244"
+  },
+  "lat": 32.94506,
+  "lng": -97.2558,
+  "phone": "817-431-3340",
+  "website": "https://www.communitystorehouse.org/",
+  "hours": [
+    {
+      "day": "mon",
+      "open": "09:00",
+      "close": "11:30"
+    },
+    {
+      "day": "mon",
+      "open": "13:30",
+      "close": "16:00"
+    },
+    {
+      "day": "tue",
+      "open": "09:00",
+      "close": "11:30"
+    },
+    {
+      "day": "tue",
+      "open": "13:30",
+      "close": "16:00"
+    },
+    {
+      "day": "wed",
+      "open": "09:00",
+      "close": "11:30"
+    },
+    {
+      "day": "wed",
+      "open": "13:30",
+      "close": "16:00"
+    },
+    {
+      "day": "thu",
+      "open": "09:00",
+      "close": "11:30"
+    },
+    {
+      "day": "thu",
+      "open": "13:30",
+      "close": "16:00"
+    },
+    {
+      "day": "fri",
+      "open": "09:30",
+      "close": "12:00"
+    }
+  ],
+  "hoursNotes": "New clients should arrive 30 minutes before closing so paperwork can be completed.",
+  "services": [
+    "food-pantry",
+    "other"
+  ],
+  "requirements": "New clients complete intake paperwork at the Nutritional Center.",
+  "notes": "Serves the Keller area; also operates educational, seasonal, and youth programs.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://www.communitystorehouse.org/contact"
+}

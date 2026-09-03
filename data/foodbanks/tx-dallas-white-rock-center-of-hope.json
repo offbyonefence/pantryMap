@@ -1,0 +1,53 @@
+{
+  "id": "tx-dallas-white-rock-center-of-hope",
+  "name": "White Rock Center of Hope",
+  "address": {
+    "street": "10021 Garland Road",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75218"
+  },
+  "lat": 32.83957,
+  "lng": -96.69597,
+  "phone": "214-324-8996",
+  "website": "https://whiterockcenterofhope.org",
+  "hours": [
+    {
+      "day": "mon",
+      "open": "09:00",
+      "close": "13:00"
+    },
+    {
+      "day": "tue",
+      "open": "09:00",
+      "close": "13:00"
+    },
+    {
+      "day": "wed",
+      "open": "09:00",
+      "close": "13:00"
+    },
+    {
+      "day": "thu",
+      "open": "09:00",
+      "close": "13:00"
+    },
+    {
+      "day": "fri",
+      "open": "09:00",
+      "close": "13:00"
+    }
+  ],
+  "hoursNotes": "By appointment only — call during open hours to schedule.",
+  "services": [
+    "food-pantry",
+    "clothing",
+    "other"
+  ],
+  "requirements": "By appointment only; serves residents of ZIP codes 75214, 75218, 75223, 75228, 75238.",
+  "appointmentRequired": true,
+  "serviceAreaRestricted": true,
+  "notes": "Also offers a clothing closet, financial assistance, and employment services. Accessible via DART bus #214.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://whiterockcenterofhope.org/food.html"
+}

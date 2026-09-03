@@ -1,0 +1,55 @@
+{
+  "id": "tx-richardson-network-of-community-ministries",
+  "name": "Network of Community Ministries",
+  "address": {
+    "street": "1500 International Parkway",
+    "city": "Richardson",
+    "state": "TX",
+    "zip": "75081",
+    "street2": "Suite 300"
+  },
+  "lat": 32.9661,
+  "lng": -96.70924,
+  "phone": "972-234-8880",
+  "website": "https://thenetwork.org/",
+  "hours": [
+    {
+      "day": "mon",
+      "open": "08:30",
+      "close": "16:00"
+    },
+    {
+      "day": "tue",
+      "open": "08:30",
+      "close": "16:00"
+    },
+    {
+      "day": "wed",
+      "open": "08:30",
+      "close": "16:00"
+    },
+    {
+      "day": "thu",
+      "open": "08:30",
+      "close": "19:00"
+    },
+    {
+      "day": "sat",
+      "open": "09:00",
+      "close": "14:00"
+    }
+  ],
+  "hoursNotes": "Community Food Market shopping is by appointment during these hours; new clients first visit in person to register.",
+  "services": [
+    "food-pantry",
+    "clothing",
+    "other"
+  ],
+  "requirements": "Resident of the 14 ZIP codes within Richardson ISD boundaries; income at or below 185% of federal poverty guidelines. Bring proof of address and income if you can — inability to provide documents does not affect eligibility for food.",
+  "idRequired": false,
+  "appointmentRequired": true,
+  "serviceAreaRestricted": true,
+  "notes": "Also offers a clothing closet, senior services, and youth programs.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://thenetwork.org/get-help/"
+}

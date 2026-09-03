@@ -1,0 +1,52 @@
+{
+  "id": "tx-hurst-need-north-east-emergency-distribution",
+  "name": "NEED (North East Emergency Distribution)",
+  "address": {
+    "street": "424 W Bedford Euless Rd",
+    "city": "Hurst",
+    "state": "TX",
+    "zip": "76053"
+  },
+  "lat": 32.83403,
+  "lng": -97.17438,
+  "phone": "817-280-0286",
+  "website": "https://needdfw.org/",
+  "hours": [
+    {
+      "day": "mon",
+      "open": "10:00",
+      "close": "14:30"
+    },
+    {
+      "day": "tue",
+      "open": "10:00",
+      "close": "14:30"
+    },
+    {
+      "day": "wed",
+      "open": "10:00",
+      "close": "14:30"
+    },
+    {
+      "day": "thu",
+      "open": "10:00",
+      "close": "14:30"
+    },
+    {
+      "day": "fri",
+      "open": "10:00",
+      "close": "14:30"
+    }
+  ],
+  "services": [
+    "food-pantry",
+    "clothing",
+    "other"
+  ],
+  "requirements": "Serves households in 13 designated northeast Tarrant County ZIP codes; residency is verified. No formal application process for food assistance.",
+  "serviceAreaRestricted": true,
+  "affiliation": "Faith-based (supported by area churches)",
+  "notes": "Provides short-term emergency food, clothing, utility payment assistance, and services for seniors.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://www.hebisd.edu/community/community/food-resources"
+}

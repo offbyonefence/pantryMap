@@ -1,0 +1,40 @@
+{
+  "id": "tx-garland-hearts-and-hands-axe-umc",
+  "name": "Hearts and Hands Food Pantry (Axe Memorial UMC)",
+  "address": {
+    "street": "1700 W Kingsley Rd",
+    "city": "Garland",
+    "state": "TX",
+    "zip": "75041"
+  },
+  "lat": 32.87824,
+  "lng": -96.65288,
+  "phone": "972-278-2175",
+  "website": "https://www.axeumc.org/serve/food-pantry/",
+  "hours": [
+    {
+      "day": "tue",
+      "open": "09:00",
+      "close": "12:00"
+    },
+    {
+      "day": "thu",
+      "open": "09:00",
+      "close": "12:00"
+    }
+  ],
+  "hoursNotes": "Shower facilities for homeless individuals available Thursdays 9am–12pm.",
+  "services": [
+    "food-pantry",
+    "groceries",
+    "other"
+  ],
+  "requirements": "Picture ID, proof of residence in 75041 (utility bill or rent receipt), and documentation of income sources. Food assistance every 60 days; about 5 days of food based on family size. Other ZIP codes served one time when possible.",
+  "idRequired": true,
+  "appointmentRequired": false,
+  "serviceAreaRestricted": true,
+  "affiliation": "United Methodist (Axe Memorial UMC)",
+  "notes": "Primary focus is the 75041 ZIP code; also provides referrals to other Garland/Dallas County agencies.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://www.axeumc.org/serve/food-pantry/"
+}

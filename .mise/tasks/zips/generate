@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+set -euo pipefail
+#MISE description="Regenerate data/zips.json from the GeoNames US postal-code dataset (CC-BY 4.0)"
+
+cd "$MISE_PROJECT_ROOT"
+bun scripts/generate-zips.mjs

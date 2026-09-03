@@ -1,0 +1,60 @@
+{
+  "id": "tx-garland-friendship-house-fbc",
+  "name": "Friendship House (First Baptist Church Garland)",
+  "address": {
+    "street": "620 W Avenue B",
+    "city": "Garland",
+    "state": "TX",
+    "zip": "75040"
+  },
+  "lat": 32.91076,
+  "lng": -96.63803,
+  "phone": "972-272-1010",
+  "website": "https://www.fbcgarland.org/friendship-house/",
+  "hours": [
+    {
+      "day": "mon",
+      "open": "09:00",
+      "close": "14:30"
+    },
+    {
+      "day": "tue",
+      "open": "09:00",
+      "close": "14:30"
+    },
+    {
+      "day": "wed",
+      "open": "09:00",
+      "close": "12:00"
+    },
+    {
+      "day": "thu",
+      "open": "09:00",
+      "close": "14:30"
+    },
+    {
+      "day": "thu",
+      "open": "17:00",
+      "close": "20:00"
+    },
+    {
+      "day": "fri",
+      "open": "09:00",
+      "close": "12:00"
+    }
+  ],
+  "hoursNotes": "Thursday has an additional evening session 5–8pm. First-come, first-served.",
+  "services": [
+    "food-pantry",
+    "clothing",
+    "other"
+  ],
+  "requirements": "Bring a picture ID and recent proof of residence (required for clothing and houseware items). Serves the Garland, Rowlett, and Sachse communities.",
+  "idRequired": true,
+  "appointmentRequired": false,
+  "serviceAreaRestricted": true,
+  "affiliation": "Baptist (First Baptist Church Garland)",
+  "notes": "Also provides household items, holiday assistance, school supplies, and referrals.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://www.fbcgarland.org/friendship-house/"
+}

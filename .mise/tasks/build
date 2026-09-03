@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+set -euo pipefail
+#MISE description="Validate data and assemble the deployable site into dist/"
+
+cd "$MISE_PROJECT_ROOT"
+bun scripts/build.mjs

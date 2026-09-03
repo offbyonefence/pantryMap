@@ -1,0 +1,77 @@
+{
+  "id": "tx-lewisville-salvation-army-lewisville",
+  "name": "The Salvation Army Lewisville Corps",
+  "address": {
+    "street": "880 Fox Ave",
+    "city": "Lewisville",
+    "state": "TX",
+    "zip": "75067"
+  },
+  "lat": 33.03412,
+  "lng": -97.00788,
+  "phone": "972-353-9400",
+  "website": "https://salvationarmyntx.org/north-texas/lewisville/",
+  "hours": [
+    {
+      "day": "mon",
+      "open": "12:00",
+      "close": "13:00"
+    },
+    {
+      "day": "tue",
+      "open": "09:00",
+      "close": "11:30"
+    },
+    {
+      "day": "tue",
+      "open": "12:00",
+      "close": "13:00"
+    },
+    {
+      "day": "tue",
+      "open": "13:30",
+      "close": "15:30"
+    },
+    {
+      "day": "wed",
+      "open": "12:00",
+      "close": "13:00"
+    },
+    {
+      "day": "thu",
+      "open": "09:00",
+      "close": "11:30"
+    },
+    {
+      "day": "thu",
+      "open": "12:00",
+      "close": "13:00"
+    },
+    {
+      "day": "thu",
+      "open": "13:30",
+      "close": "15:30"
+    },
+    {
+      "day": "fri",
+      "open": "12:00",
+      "close": "13:00"
+    },
+    {
+      "day": "sun",
+      "open": "12:30",
+      "close": "13:30"
+    }
+  ],
+  "hoursNotes": "Food pantry Tue and Thu (closed midday); free community lunch Mon–Fri 12–1pm and Sunday 12:30–1:30pm.",
+  "services": [
+    "food-pantry",
+    "hot-meals",
+    "other"
+  ],
+  "appointmentRequired": false,
+  "affiliation": "Christian (The Salvation Army)",
+  "notes": "Also offers case management by appointment and seasonal cooling/warming stations.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://salvationarmyntx.org/north-texas/lewisville/"
+}

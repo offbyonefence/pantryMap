@@ -1,0 +1,26 @@
+{
+  "id": "tx-plano-north-texas-food-bank",
+  "name": "North Texas Food Bank",
+  "address": {
+    "street": "3677 Mapleshade Lane",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "75075"
+  },
+  "lat": 33.004,
+  "lng": -96.7593,
+  "phone": "214-330-1396",
+  "website": "https://ntfb.org/",
+  "hoursNotes": "Distribution food bank — no walk-in client pantry at this address. Find a partner pantry at ntfb.org/food-assistance or a mobile pantry stop near you.",
+  "services": [
+    "mobile-pantry",
+    "snap-assistance",
+    "other"
+  ],
+  "requirements": "Use the partner pantry finder or mobile pantry schedule on their site; SNAP/benefits assistance line: 214-269-0906.",
+  "serviceAreaRestricted": true,
+  "notes": "Regional Feeding America food bank serving 12 North Texas counties through hundreds of partner pantries, school pantries, and mobile distributions.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://ntfb.org/",
+  "referralHub": true
+}

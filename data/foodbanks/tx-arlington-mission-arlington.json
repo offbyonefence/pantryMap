@@ -1,0 +1,58 @@
+{
+  "id": "tx-arlington-mission-arlington",
+  "name": "Mission Arlington",
+  "address": {
+    "street": "210 W South St",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76010"
+  },
+  "lat": 32.73478,
+  "lng": -97.10925,
+  "phone": "817-277-6620",
+  "website": "https://missionarlington.org/",
+  "hours": [
+    {
+      "day": "mon",
+      "open": "08:00",
+      "close": "17:00"
+    },
+    {
+      "day": "tue",
+      "open": "08:00",
+      "close": "17:00"
+    },
+    {
+      "day": "wed",
+      "open": "08:00",
+      "close": "17:00"
+    },
+    {
+      "day": "thu",
+      "open": "08:00",
+      "close": "17:00"
+    },
+    {
+      "day": "fri",
+      "open": "08:00",
+      "close": "17:00"
+    },
+    {
+      "day": "sat",
+      "open": "09:00",
+      "close": "14:00"
+    }
+  ],
+  "hoursNotes": "Provides food six days a week; groceries sized to last 3–5 days based on family size.",
+  "services": [
+    "food-pantry",
+    "clothing",
+    "other"
+  ],
+  "requirements": "Walk-ins accepted during emergency assistance hours.",
+  "appointmentRequired": false,
+  "affiliation": "Christian",
+  "notes": "Also offers medical and dental clinics, counseling, furniture, and children's programs.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://missionarlington.org/food-donations/"
+}

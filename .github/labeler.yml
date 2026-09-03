@@ -1,0 +1,41 @@
+# Path-based PR auto-labeling (actions/labeler v5+ syntax).
+# Labels must exist in the repo — see the bootstrap list in .github/CONTRIBUTING notes.
+
+data:
+  - changed-files:
+      - any-glob-to-any-file: "data/foodbanks/**"
+
+schema:
+  - changed-files:
+      - any-glob-to-any-file: "data/schema/**"
+
+site:
+  - changed-files:
+      - any-glob-to-any-file:
+          - "index.html"
+          - "css/**"
+          - "js/**"
+          - "vendor/**"
+
+tooling:
+  - changed-files:
+      - any-glob-to-any-file:
+          - "scripts/**"
+          - ".mise/**"
+          - ".mise.toml"
+          - ".dagger/**"
+          - "dagger.json"
+
+ci:
+  - changed-files:
+      - any-glob-to-any-file: ".github/**"
+
+docs:
+  - changed-files:
+      - any-glob-to-any-file:
+          - "**/*.md"
+          - "LICENSE"
+
+tests:
+  - changed-files:
+      - any-glob-to-any-file: "tests/**"

@@ -1,0 +1,52 @@
+{
+  "id": "tx-garland-good-samaritans-of-garland",
+  "name": "Good Samaritans of Garland",
+  "address": {
+    "street": "3319 Edgewood Dr",
+    "city": "Garland",
+    "state": "TX",
+    "zip": "75042"
+  },
+  "lat": 32.91406,
+  "lng": -96.67919,
+  "phone": "972-276-2263",
+  "website": "https://www.goodsamofgarland.org",
+  "hours": [
+    {
+      "day": "mon",
+      "open": "09:00",
+      "close": "13:00"
+    },
+    {
+      "day": "tue",
+      "open": "09:00",
+      "close": "13:00"
+    },
+    {
+      "day": "wed",
+      "open": "09:00",
+      "close": "13:00"
+    },
+    {
+      "day": "thu",
+      "open": "09:00",
+      "close": "13:00"
+    },
+    {
+      "day": "fri",
+      "open": "09:00",
+      "close": "13:00"
+    }
+  ],
+  "services": [
+    "food-pantry",
+    "groceries"
+  ],
+  "requirements": "Picture ID requested if available; first-time guests asked to complete online registration beforehand. No residency or income requirements; eligible every two weeks.",
+  "idRequired": false,
+  "appointmentRequired": false,
+  "serviceAreaRestricted": false,
+  "notes": "Dry goods, meat, produce, dairy, and bread, plus household items and pet food as available. Moved to Edgewood Dr in June 2026. North Texas Food Bank partner agency.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://www.goodsamofgarland.org/food-pantry/"
+}

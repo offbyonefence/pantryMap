@@ -1,0 +1,49 @@
+{
+  "id": "tx-plano-minnies-food-pantry",
+  "name": "Minnie's Food Pantry",
+  "address": {
+    "street": "661 18th Street",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "75074"
+  },
+  "lat": 33.02479,
+  "lng": -96.70665,
+  "phone": "972-596-0253",
+  "website": "https://minniesfoodpantry.org/",
+  "hours": [
+    {
+      "day": "wed",
+      "open": "08:30",
+      "close": "11:30"
+    },
+    {
+      "day": "thu",
+      "open": "08:30",
+      "close": "11:30"
+    },
+    {
+      "day": "fri",
+      "open": "08:30",
+      "close": "11:30"
+    },
+    {
+      "day": "sat",
+      "open": "08:30",
+      "close": "11:30"
+    }
+  ],
+  "hoursNotes": "Closed every 5th Saturday of the month.",
+  "services": [
+    "food-pantry",
+    "mobile-pantry",
+    "clothing",
+    "other"
+  ],
+  "requirements": "Drive-thru distribution with no income test; bring photo ID and a utility bill. Households may visit once monthly; weekly walk-up service for people experiencing homelessness.",
+  "idRequired": true,
+  "appointmentRequired": false,
+  "notes": "Also runs school feeding programs, mobile delivery, and an Empowerment Center with classes.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://minniesfoodpantry.org/"
+}

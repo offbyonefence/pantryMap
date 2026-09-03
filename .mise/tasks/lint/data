@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+set -euo pipefail
+#MISE description="Validate every data/foodbanks/*.json entry against the schema"
+
+cd "$MISE_PROJECT_ROOT"
+bun scripts/validate.mjs

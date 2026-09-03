@@ -1,0 +1,37 @@
+{
+  "id": "tx-dallas-brother-bills-helping-hand",
+  "name": "Brother Bill's Helping Hand",
+  "address": {
+    "street": "3906 N Westmoreland Rd",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75212"
+  },
+  "lat": 32.78899,
+  "lng": -96.87368,
+  "phone": "214-638-2196",
+  "website": "https://bbhh.org",
+  "hours": [
+    {
+      "day": "wed",
+      "open": "09:30",
+      "close": "11:30"
+    },
+    {
+      "day": "thu",
+      "open": "09:30",
+      "close": "11:30"
+    }
+  ],
+  "hoursNotes": "By appointment. Extra sessions: 4th Thursday 5–6:30pm, 4th Friday 9:30–11am, 2nd Saturday 9–11:30am. Produce Days 1st & 3rd Fridays 9–10:30am (no appointment needed).",
+  "services": [
+    "food-pantry",
+    "other"
+  ],
+  "requirements": "Grocery appointment required before receiving food; new clients register online, existing clients call. Each family may shop once per month.",
+  "appointmentRequired": true,
+  "affiliation": "Faith-based (Christian)",
+  "notes": "Choice-model grocery store in West Dallas; also runs a community health clinic, ESL/job training, and youth programs.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://bbhh.org/grocery-store-program-copy"
+}

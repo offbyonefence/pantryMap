@@ -1,0 +1,73 @@
+{
+  "id": "tx-lewisville-christian-community-action",
+  "name": "Christian Community Action (CCA) Food Pantry",
+  "address": {
+    "street": "200 S Mill Street",
+    "city": "Lewisville",
+    "state": "TX",
+    "zip": "75057"
+  },
+  "lat": 33.0448,
+  "lng": -96.99406,
+  "phone": "972-221-1224",
+  "website": "https://ccahelps.org/",
+  "hours": [
+    {
+      "day": "mon",
+      "open": "09:00",
+      "close": "11:00"
+    },
+    {
+      "day": "mon",
+      "open": "13:00",
+      "close": "15:00"
+    },
+    {
+      "day": "tue",
+      "open": "09:00",
+      "close": "11:00"
+    },
+    {
+      "day": "tue",
+      "open": "13:00",
+      "close": "15:00"
+    },
+    {
+      "day": "wed",
+      "open": "09:00",
+      "close": "11:00"
+    },
+    {
+      "day": "wed",
+      "open": "13:00",
+      "close": "15:00"
+    },
+    {
+      "day": "thu",
+      "open": "09:00",
+      "close": "11:00"
+    },
+    {
+      "day": "thu",
+      "open": "13:00",
+      "close": "15:00"
+    },
+    {
+      "day": "fri",
+      "open": "09:00",
+      "close": "11:00"
+    }
+  ],
+  "hoursNotes": "First-come, first-served.",
+  "services": [
+    "food-pantry",
+    "other"
+  ],
+  "requirements": "Must live in CCA's service area, defined by school district boundaries in Denton County (Lewisville, Little Elm, Frisco, Coppell, Argyle, Lake Dallas, Northwest ISDs and the Denton County part of Carrollton-Farmers Branch ISD).",
+  "appointmentRequired": false,
+  "serviceAreaRestricted": true,
+  "affiliation": "Christian",
+  "notes": "Pantry stocks staples, produce, meat, dairy, hygiene items, and diapers. Also offers coaching programs and a resale store.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://ccahelps.org/gethelp/"
+}

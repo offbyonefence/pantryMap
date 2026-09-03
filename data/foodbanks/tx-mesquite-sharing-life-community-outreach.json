@@ -1,0 +1,73 @@
+{
+  "id": "tx-mesquite-sharing-life-community-outreach",
+  "name": "Sharing Life Community Outreach",
+  "address": {
+    "street": "3795 W Emporium Circle",
+    "city": "Mesquite",
+    "state": "TX",
+    "zip": "75150"
+  },
+  "lat": 32.81468,
+  "lng": -96.62727,
+  "phone": "972-285-5819",
+  "website": "https://sharing.life/",
+  "hours": [
+    {
+      "day": "mon",
+      "open": "09:00",
+      "close": "15:00"
+    },
+    {
+      "day": "mon",
+      "open": "17:00",
+      "close": "19:00"
+    },
+    {
+      "day": "tue",
+      "open": "09:00",
+      "close": "15:00"
+    },
+    {
+      "day": "tue",
+      "open": "17:00",
+      "close": "19:00"
+    },
+    {
+      "day": "wed",
+      "open": "09:00",
+      "close": "15:00"
+    },
+    {
+      "day": "wed",
+      "open": "17:00",
+      "close": "19:00"
+    },
+    {
+      "day": "thu",
+      "open": "09:00",
+      "close": "15:00"
+    },
+    {
+      "day": "thu",
+      "open": "17:00",
+      "close": "19:00"
+    },
+    {
+      "day": "fri",
+      "open": "09:00",
+      "close": "12:00"
+    }
+  ],
+  "hoursNotes": "Friday morning is reserved for seniors 60+.",
+  "services": [
+    "food-pantry",
+    "clothing",
+    "other"
+  ],
+  "requirements": "Walk-ins welcome, no appointment necessary. Serves the greater Southeast Dallas area including Mesquite, Garland, Sunnyvale, Rowlett, Rockwall, and Forney.",
+  "appointmentRequired": false,
+  "serviceAreaRestricted": true,
+  "notes": "Client-choice pantry with meats, produce, diapers, formula, toiletries, and pet food; about two weeks of food per visit. Online ePantry ordering with curbside pickup also available.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://sharing.life/pantry/"
+}

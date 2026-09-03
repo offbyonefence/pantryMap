@@ -1,0 +1,25 @@
+{
+  "id": "tx-fort-worth-union-gospel-mission-tarrant",
+  "name": "Union Gospel Mission of Tarrant County",
+  "address": {
+    "street": "1321 E Lancaster Ave",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76102"
+  },
+  "lat": 32.74573,
+  "lng": -97.31599,
+  "phone": "817-339-2553",
+  "website": "https://ugm-tc.org/",
+  "hoursNotes": "Meals served daily to shelter guests and people in need. Contact the Welcome Center at 817-779-4977 for intake and meal times.",
+  "services": [
+    "hot-meals",
+    "clothing",
+    "other"
+  ],
+  "requirements": "Enter through the Welcome Center for intake.",
+  "affiliation": "Christian (evangelical)",
+  "notes": "Serving since 1888: emergency shelter, meals, clothing, and housing-focused programs.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://ugm-tc.org/contact/"
+}

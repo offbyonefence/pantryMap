@@ -1,0 +1,52 @@
+{
+  "id": "tx-irving-irving-cares",
+  "name": "Irving Cares",
+  "address": {
+    "street": "440 S Nursery Rd",
+    "city": "Irving",
+    "state": "TX",
+    "zip": "75060",
+    "street2": "Suite 101"
+  },
+  "lat": 32.80991,
+  "lng": -96.93405,
+  "phone": "972-721-9181",
+  "website": "https://irvingcares.org",
+  "hours": [
+    {
+      "day": "mon",
+      "open": "09:00",
+      "close": "12:00"
+    },
+    {
+      "day": "tue",
+      "open": "09:00",
+      "close": "12:00"
+    },
+    {
+      "day": "tue",
+      "open": "13:00",
+      "close": "15:30"
+    },
+    {
+      "day": "thu",
+      "open": "09:00",
+      "close": "12:00"
+    },
+    {
+      "day": "thu",
+      "open": "13:00",
+      "close": "15:30"
+    }
+  ],
+  "hoursNotes": "Most visits take about one hour.",
+  "services": [
+    "food-pantry",
+    "other"
+  ],
+  "requirements": "Serves Irving residents. Provides a week of groceries (three meals a day per household member).",
+  "serviceAreaRestricted": true,
+  "notes": "Also offers rent/utility assistance, employment services, and financial coaching.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://irvingcares.org/services/food-pantry/"
+}

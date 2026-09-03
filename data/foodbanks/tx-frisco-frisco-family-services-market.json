@@ -1,0 +1,54 @@
+{
+  "id": "tx-frisco-frisco-family-services-market",
+  "name": "Frisco Family Services Market",
+  "address": {
+    "street": "9085 Dogwood St",
+    "city": "Frisco",
+    "state": "TX",
+    "zip": "75033"
+  },
+  "lat": 33.15081,
+  "lng": -96.81895,
+  "phone": "972-335-9495",
+  "website": "https://friscofamilyservices.org/",
+  "hours": [
+    {
+      "day": "mon",
+      "open": "09:00",
+      "close": "17:00"
+    },
+    {
+      "day": "tue",
+      "open": "09:00",
+      "close": "17:00"
+    },
+    {
+      "day": "wed",
+      "open": "09:00",
+      "close": "17:00"
+    },
+    {
+      "day": "thu",
+      "open": "09:00",
+      "close": "17:00"
+    },
+    {
+      "day": "fri",
+      "open": "09:00",
+      "close": "17:00"
+    }
+  ],
+  "hoursNotes": "Apply first at the main office (8780 Third Street, Frisco) and meet with a case manager before shopping at the Market.",
+  "services": [
+    "food-pantry",
+    "mobile-pantry",
+    "other"
+  ],
+  "requirements": "Must live in Frisco or within Frisco ISD boundaries. Application requires proof of income, proof of residency, and government ID for household members.",
+  "idRequired": true,
+  "appointmentRequired": true,
+  "serviceAreaRestricted": true,
+  "notes": "Frisco's only community food pantry; grocery-store-style choice shopping, curbside pickup, and home delivery for seniors.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://friscofamilyservices.org/what_we_do/ffsmarket/market.html"
+}

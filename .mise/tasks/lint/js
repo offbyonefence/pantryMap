@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+set -euo pipefail
+#MISE description="Syntax-check all site and build JavaScript"
+
+cd "$MISE_PROJECT_ROOT"
+status=0
+while IFS= read -r -d '' f; do
+  if ! bun build --no-bundle "$f" > /dev/null; then
+    echo "Syntax error in $f"
+    status=1
+  fi
+done < <(find js scripts -name '*.mjs' -print0 -o -name '*.js' -print0)
+[ "$status" -eq 0 ] && echo "All JS files parse cleanly."
+exit "$status"

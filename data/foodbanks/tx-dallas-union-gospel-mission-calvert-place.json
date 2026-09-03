@@ -1,0 +1,25 @@
+{
+  "id": "tx-dallas-union-gospel-mission-calvert-place",
+  "name": "Union Gospel Mission Dallas — Calvert Place",
+  "address": {
+    "street": "3211 Irving Blvd",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75247"
+  },
+  "lat": 32.80881,
+  "lng": -96.86957,
+  "phone": "214-637-6117",
+  "website": "https://www.ugmdallas.org/men",
+  "hoursNotes": "Walk-in intake daily 8am–6pm, 365 days a year; offers a place to stay, a shower, and a meal.",
+  "services": [
+    "hot-meals",
+    "other"
+  ],
+  "requirements": "Walk-in intake; no appointment necessary. Men's shelter — women & children are served at the Center of Hope, 4815 Cass St (214-638-2988).",
+  "appointmentRequired": false,
+  "affiliation": "Christian (Union Gospel Mission)",
+  "notes": "Homeless services mission: shelter, meals, clothing, and recovery programs.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://www.ugmdallas.org/men"
+}

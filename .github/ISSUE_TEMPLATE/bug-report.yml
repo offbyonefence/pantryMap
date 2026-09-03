@@ -1,0 +1,38 @@
+name: Bug report
+description: Something on the site is broken — search, map, filters, display, etc.
+title: "Bug: "
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What went wrong?
+      placeholder: "I searched ZIP 75201 and got no results / the map won't open / ..."
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open the site
+        2. Type ...
+        3. Click ...
+  - type: input
+    id: device
+    attributes:
+      label: Device and browser
+      placeholder: "iPhone 14, Safari / Windows 11, Firefox 143"
+  - type: dropdown
+    id: theme
+    attributes:
+      label: Theme when it happened
+      options:
+        - Light
+        - Dark
+        - Not sure
+  - type: markdown
+    attributes:
+      value: |
+        Please **don't** include your address or exact location in this report —
+        a ZIP code or city is plenty if location matters to the bug.

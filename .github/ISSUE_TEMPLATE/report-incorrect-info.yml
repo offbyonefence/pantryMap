@@ -1,0 +1,22 @@
+name: Report incorrect info
+description: A listing has wrong hours, a wrong address, or has closed.
+title: "Fix: "
+labels: [data, fix]
+body:
+  - type: input
+    id: which
+    attributes:
+      label: Which food bank?
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What's wrong, and what should it say instead?
+      placeholder: "The pantry moved to ... / closed in July / hours are now ..."
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Where can we verify this? (link, phone call, visited in person)

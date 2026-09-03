@@ -1,0 +1,44 @@
+{
+  "id": "tx-garland-st-michael-catholic-food-pantry",
+  "name": "St. Michael the Archangel Catholic Church Food Pantry",
+  "address": {
+    "street": "950 Trails Parkway",
+    "city": "Garland",
+    "state": "TX",
+    "zip": "75043"
+  },
+  "lat": 32.84042,
+  "lng": -96.61752,
+  "phone": "972-279-6581",
+  "website": "https://stmichaelgarland.org/food-pantry",
+  "hours": [
+    {
+      "day": "thu",
+      "open": "09:00",
+      "close": "11:30"
+    },
+    {
+      "day": "fri",
+      "open": "09:00",
+      "close": "11:30"
+    },
+    {
+      "day": "sat",
+      "open": "09:00",
+      "close": "11:30"
+    }
+  ],
+  "hoursNotes": "Drive-thru service only.",
+  "services": [
+    "food-pantry",
+    "groceries"
+  ],
+  "requirements": "Valid photo ID and proof of residence required. Serves ZIP codes 75041, 75043, 75088, 75089, and 75150. No appointment needed.",
+  "idRequired": true,
+  "appointmentRequired": false,
+  "serviceAreaRestricted": true,
+  "affiliation": "Catholic (Diocese of Dallas)",
+  "notes": "Parish also runs the 'A Helping Hand' assistance ministry.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://stmichaelgarland.org/food-pantry"
+}

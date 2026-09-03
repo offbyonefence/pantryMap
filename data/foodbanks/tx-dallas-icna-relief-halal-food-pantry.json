@@ -1,0 +1,33 @@
+{
+  "id": "tx-dallas-icna-relief-halal-food-pantry",
+  "name": "ICNA Relief Dallas Halal Food Pantry",
+  "address": {
+    "street": "10874 Plano Rd",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75238",
+    "street2": "Suite F"
+  },
+  "lat": 32.89783,
+  "lng": -96.70041,
+  "phone": "(214) 813-6166",
+  "website": "https://icnarelief.org/dallas/",
+  "hours": [
+    {
+      "day": "sun",
+      "open": "09:00",
+      "close": "14:00"
+    }
+  ],
+  "services": [
+    "food-pantry",
+    "groceries"
+  ],
+  "requirements": "First-time clients bring lease papers and a valid ID. Serves everyone regardless of faith.",
+  "idRequired": true,
+  "appointmentRequired": false,
+  "affiliation": "Muslim (ICNA Relief)",
+  "notes": "Halal food pantry in northeast Dallas, also the nearest Islamic pantry for the Rowlett/Rockwall area.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://icnarelief.org/dallas/"
+}

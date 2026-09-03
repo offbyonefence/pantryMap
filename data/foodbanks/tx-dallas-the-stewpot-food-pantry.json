@@ -1,0 +1,52 @@
+{
+  "id": "tx-dallas-the-stewpot-food-pantry",
+  "name": "The Stewpot Food Pantry",
+  "address": {
+    "street": "1610 S Malcolm X Blvd",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75226",
+    "street2": "Building 300"
+  },
+  "lat": 32.77874,
+  "lng": -96.77865,
+  "phone": "469-573-0148",
+  "website": "https://www.thestewpot.org/food-pantry",
+  "hours": [
+    {
+      "day": "mon",
+      "open": "09:00",
+      "close": "15:00"
+    },
+    {
+      "day": "tue",
+      "open": "09:00",
+      "close": "15:00"
+    },
+    {
+      "day": "wed",
+      "open": "09:00",
+      "close": "15:00"
+    },
+    {
+      "day": "thu",
+      "open": "09:00",
+      "close": "15:00"
+    },
+    {
+      "day": "fri",
+      "open": "09:00",
+      "close": "15:00"
+    }
+  ],
+  "hoursNotes": "Appointment-only within posted hours. Walk-ins accepted daily 12–1pm (same-day service not guaranteed) and on the 2nd and 4th Thursday of each month; new clients walk in once to register.",
+  "services": [
+    "food-pantry"
+  ],
+  "requirements": "New clients register in person during walk-in hours; at least 14 days between pantry visits.",
+  "appointmentRequired": true,
+  "affiliation": "Presbyterian (ministry of First Presbyterian Church of Dallas)",
+  "notes": "Continuation of the former CitySquare food pantry at the Opportunity Center, taken over by The Stewpot in 2024.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://www.thestewpot.org/food-pantry"
+}

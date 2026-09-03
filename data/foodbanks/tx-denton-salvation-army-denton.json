@@ -1,0 +1,72 @@
+{
+  "id": "tx-denton-salvation-army-denton",
+  "name": "The Salvation Army Denton Corps",
+  "address": {
+    "street": "1508 E McKinney Street",
+    "city": "Denton",
+    "state": "TX",
+    "zip": "76209"
+  },
+  "lat": 33.21576,
+  "lng": -97.11333,
+  "phone": "940-566-3800",
+  "website": "https://salvationarmyntx.org/north-texas/denton/",
+  "hours": [
+    {
+      "day": "mon",
+      "open": "17:30",
+      "close": "18:30"
+    },
+    {
+      "day": "tue",
+      "open": "17:30",
+      "close": "18:30"
+    },
+    {
+      "day": "wed",
+      "open": "09:30",
+      "close": "11:30"
+    },
+    {
+      "day": "wed",
+      "open": "17:30",
+      "close": "18:30"
+    },
+    {
+      "day": "thu",
+      "open": "17:30",
+      "close": "18:30"
+    },
+    {
+      "day": "fri",
+      "open": "09:30",
+      "close": "11:30"
+    },
+    {
+      "day": "fri",
+      "open": "17:30",
+      "close": "18:30"
+    },
+    {
+      "day": "sat",
+      "open": "17:30",
+      "close": "18:30"
+    },
+    {
+      "day": "sun",
+      "open": "17:30",
+      "close": "18:30"
+    }
+  ],
+  "hoursNotes": "Drive-thru food pantry Wed and Fri mornings; K.A.R.E. Kitchen hot meal served daily at 5:30pm.",
+  "services": [
+    "food-pantry",
+    "hot-meals",
+    "other"
+  ],
+  "appointmentRequired": false,
+  "affiliation": "Christian (The Salvation Army)",
+  "notes": "Also operates a year-round shelter (check-in 4pm) and seasonal cooling/warming stations.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://salvationarmyntx.org/north-texas/denton/"
+}

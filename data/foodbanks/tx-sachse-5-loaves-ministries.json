@@ -1,0 +1,28 @@
+{
+  "id": "tx-sachse-5-loaves-ministries",
+  "name": "5 Loaves Ministries Food Pantry",
+  "address": {
+    "street": "4401 Williford Rd",
+    "city": "Sachse",
+    "state": "TX",
+    "zip": "75048"
+  },
+  "lat": 32.982,
+  "lng": -96.58186,
+  "phone": "469-767-8071",
+  "website": "https://5loavesministries.org/food-pantry/",
+  "hoursNotes": "Tuesday and Thursday mornings from 8am, plus Thursday evenings 5–7pm; service is bi-weekly by last name (A–M and N–Z alternate weeks) — call to confirm the current schedule and your week.",
+  "services": [
+    "food-pantry",
+    "groceries",
+    "other"
+  ],
+  "requirements": "Proof of address (utility bill or ID); must reside in Sachse, Garland, Wylie, Murphy, Richardson, or Rowlett; verbal income verification. No appointment required; drive-up or walk-in.",
+  "idRequired": true,
+  "appointmentRequired": false,
+  "serviceAreaRestricted": true,
+  "affiliation": "Church of Christ (ministry of NorthPointe Church of Christ)",
+  "notes": "Sachse's main food pantry; also distributes diapers, wipes, and occasional household essentials.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://5loavesministries.org/food-pantry/"
+}

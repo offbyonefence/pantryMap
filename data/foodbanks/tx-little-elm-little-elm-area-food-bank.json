@@ -1,0 +1,46 @@
+{
+  "id": "tx-little-elm-little-elm-area-food-bank",
+  "name": "Little Elm Area Food Bank",
+  "address": {
+    "street": "520 Lobo Lane",
+    "city": "Little Elm",
+    "state": "TX",
+    "zip": "75068"
+  },
+  "lat": 33.15224,
+  "lng": -96.94285,
+  "phone": "972-294-4061",
+  "website": "https://www.leafb.org/",
+  "hours": [
+    {
+      "day": "mon",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "tue",
+      "open": "11:00",
+      "close": "15:00"
+    },
+    {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00"
+    },
+    {
+      "day": "fri",
+      "open": "09:00",
+      "close": "12:00"
+    }
+  ],
+  "hoursNotes": "Located in the Colin Powell Community Center. First-time visitors complete registration and should arrive 15–30 minutes before closing.",
+  "services": [
+    "food-pantry",
+    "other"
+  ],
+  "requirements": "Clients may visit once per month. First-time visitors complete registration on site.",
+  "appointmentRequired": false,
+  "notes": "Offers non-perishables, refrigerated goods, and pet food.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://www.leafb.org/"
+}

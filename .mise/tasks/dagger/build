@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -euo pipefail
+#MISE description="Build the site in a container via Dagger and export dist/"
+
+cd "$MISE_PROJECT_ROOT"
+rm -rf dist
+dagger call build export --path=dist
+echo "Exported containerized build to dist/"

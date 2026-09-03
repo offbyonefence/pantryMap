@@ -1,0 +1,52 @@
+{
+  "id": "tx-garland-salvation-army-garland",
+  "name": "The Salvation Army Garland Corps",
+  "address": {
+    "street": "451 W Avenue D",
+    "city": "Garland",
+    "state": "TX",
+    "zip": "75040"
+  },
+  "lat": 32.90935,
+  "lng": -96.6362,
+  "phone": "972-272-4531",
+  "website": "https://salvationarmyntx.org/north-texas/garland/",
+  "hours": [
+    {
+      "day": "mon",
+      "open": "10:00",
+      "close": "11:30"
+    },
+    {
+      "day": "tue",
+      "open": "10:00",
+      "close": "11:30"
+    },
+    {
+      "day": "wed",
+      "open": "10:00",
+      "close": "11:30"
+    },
+    {
+      "day": "thu",
+      "open": "10:00",
+      "close": "11:30"
+    },
+    {
+      "day": "fri",
+      "open": "10:00",
+      "close": "11:30"
+    }
+  ],
+  "hoursNotes": "Hours shown are the walk-up fresh food distribution (no appointment). The full food pantry runs Tue–Fri by appointment only — call to schedule.",
+  "services": [
+    "food-pantry",
+    "groceries",
+    "other"
+  ],
+  "requirements": "Fresh food distribution is walk-up; full pantry visits require an appointment.",
+  "affiliation": "Christian (The Salvation Army)",
+  "notes": "Two food programs: appointment-based pantry (Tue–Fri) and walk-up fresh food distribution (Mon–Fri mornings).",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://salvationarmyntx.org/north-texas/garland/"
+}

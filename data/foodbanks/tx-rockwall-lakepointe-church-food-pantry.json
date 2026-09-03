@@ -1,0 +1,32 @@
+{
+  "id": "tx-rockwall-lakepointe-church-food-pantry",
+  "name": "Lakepointe Church Food Pantry",
+  "address": {
+    "street": "701 E Interstate 30",
+    "city": "Rockwall",
+    "state": "TX",
+    "zip": "75087"
+  },
+  "lat": 32.8966,
+  "lng": -96.46574,
+  "phone": "(469) 698-2200",
+  "website": "https://lakepointe.church/foodpantry/",
+  "hours": [
+    {
+      "day": "thu",
+      "open": "09:00",
+      "close": "11:00"
+    }
+  ],
+  "services": [
+    "food-pantry",
+    "groceries"
+  ],
+  "requirements": "Open to anyone; no requirements listed.",
+  "appointmentRequired": false,
+  "serviceAreaRestricted": false,
+  "affiliation": "Christian (non-denominational, Baptist roots)",
+  "notes": "Rockwall campus; serves about 150 families weekly. North Texas Food Bank partner agency.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://lakepointe.church/foodpantry/"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "tx-farmers-branch-metrocrest-services",
+  "name": "Metrocrest Services Food Pantry",
+  "address": {
+    "street": "13801 Hutton Drive",
+    "city": "Farmers Branch",
+    "state": "TX",
+    "zip": "75234"
+  },
+  "lat": 32.93013,
+  "lng": -96.91537,
+  "phone": "972-446-2100",
+  "website": "https://metrocrestservices.org/",
+  "hours": [
+    {
+      "day": "mon",
+      "open": "08:30",
+      "close": "15:00"
+    },
+    {
+      "day": "tue",
+      "open": "08:30",
+      "close": "15:00"
+    },
+    {
+      "day": "wed",
+      "open": "08:30",
+      "close": "15:00"
+    },
+    {
+      "day": "thu",
+      "open": "08:30",
+      "close": "15:00"
+    },
+    {
+      "day": "fri",
+      "open": "08:30",
+      "close": "15:00"
+    },
+    {
+      "day": "sat",
+      "open": "09:00",
+      "close": "13:00"
+    }
+  ],
+  "hoursNotes": "Shopping is by scheduled appointment — call or email intake@metrocrestservices.org.",
+  "services": [
+    "food-pantry",
+    "other"
+  ],
+  "requirements": "Appointment required. Serves residents of Carrollton, Addison, Farmers Branch, Coppell, and the Dallas portion of 75287 in Denton County.",
+  "appointmentRequired": true,
+  "serviceAreaRestricted": true,
+  "notes": "Grocery-style choice pantry with milk, bread, meat, produce, and hygiene supplies. Also provides rent/utility assistance, senior services, and home-delivered meals.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://metrocrestservices.org/services/food-pantry/"
+}

@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+set -euo pipefail
+#MISE description="Verify toolchain is ready (site has zero package dependencies)"
+
+bun --version
+echo "No package dependencies to install — you're ready. Try: mise run serve"

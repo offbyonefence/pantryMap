@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>PantryMap — Find food help near you</title>
+  <meta name="description" content="Find food banks and free food pantries near you. Everyone welcome. Private by design — your location never leaves your device unless you ask.">
+  <meta property="og:title" content="PantryMap — Find food help near you">
+  <meta property="og:description" content="Find food banks and free food pantries near you. Everyone welcome. Private by design.">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="preload" href="vendor/fonts/inter-tight-800-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="vendor/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🥕</text></svg>">
+</head>
+<body>
+  <a href="#search-input" class="skip-link">Skip to search</a>
+
+  <!-- ============ LANDING STATE ============ -->
+  <div id="landing">
+    <section class="hero" aria-label="Find food banks near you">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true">🥕</span>
+        <p class="brand-name">PantryMap</p>
+        <h1 class="hero-title">Find Food Help</h1>
+      </div>
+
+      <p class="hero-sub">Enter your ZIP code or address to find food banks and pantries near you. Everyone welcome — no matter who you are or what you believe.</p>
+
+      <form id="search-form" class="lookup" novalidate>
+        <label for="search-input" class="field-label">ZIP code or address</label>
+        <input id="search-input" type="text" inputmode="text" autocomplete="postal-code"
+               placeholder="e.g. 75201 or 500 Main St, Fort Worth">
+        <button type="submit" class="cta">Find Food Near Me</button>
+      </form>
+
+      <div class="alt-actions">
+        <button id="use-location" type="button" class="ghost">📍 Use my location</button>
+        <button id="browse-all" type="button" class="link-btn">Browse all food banks</button>
+      </div>
+
+      <p id="status" role="alert"></p>
+
+      <p class="privacy-note">
+        Private by design — no tracking, ever. ZIP search and location stay on your device.
+        Typing a street address sends only that address to
+        <a href="https://operations.osmfoundation.org/policies/nominatim/" rel="noopener">OpenStreetMap</a>.
+        <a href="#about">More on privacy</a>.
+      </p>
+    </section>
+
+    <section id="about" class="about">
+      <h2>About &amp; privacy</h2>
+      <p>
+        This site is a free, community-maintained directory of food banks and food pantries.
+        Every listing serves anyone in need — religious affiliation of an organization is shown
+        for information only, and no listing here may require religious participation to receive food.
+      </p>
+      <p>
+        <strong>Privacy:</strong> no analytics, no cookies, no ads, no tracking of any kind.
+        ZIP code search uses a lookup table downloaded with the page, so your ZIP never leaves your browser.
+        The "use my location" button uses your browser's own location feature; the result stays on your device.
+        Only two optional actions contact an outside service, and both go to the nonprofit OpenStreetMap:
+        searching by street address, and loading map images if you open the map.
+      </p>
+      <p>
+        Spot an error, or know a food bank we're missing?
+        <a href="https://github.com/pantrymap/pantrymap.github.io" rel="noopener">Suggest a change on GitHub</a> —
+        no coding needed, there's a simple form.
+      </p>
+    </section>
+  </div>
+
+  <!-- ============ RESULTS STATE ============ -->
+  <div id="results-view" hidden>
+    <header class="results-bar">
+      <div class="results-bar-inner">
+        <button id="back-home" type="button" class="wordmark">🥕 PantryMap</button>
+        <button id="new-search" type="button" class="bar-action">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+          New search
+        </button>
+      </div>
+    </header>
+
+    <main class="results-main">
+      <div class="results-inner">
+        <p class="eyebrow">Food banks near you</p>
+        <p id="result-summary" aria-live="polite"></p>
+        <p id="results-status" role="alert"></p>
+
+        <section aria-label="Filters" class="filters">
+          <input id="filter-name" type="search" placeholder="Filter by name or city" aria-label="Filter by name or city">
+          <label><input id="filter-open" type="checkbox"> Open now</label>
+          <label><input id="filter-no-id" type="checkbox"> No ID needed</label>
+          <label><input id="filter-no-appt" type="checkbox"> No appointment</label>
+          <select id="filter-service" aria-label="Type of help">
+            <option value="">Any type of help</option>
+            <option value="food-pantry">Food pantry</option>
+            <option value="hot-meals">Hot meals</option>
+            <option value="mobile-pantry">Mobile pantry</option>
+            <option value="groceries">Groceries</option>
+            <option value="snap-assistance">SNAP help</option>
+            <option value="senior-boxes">Senior boxes</option>
+            <option value="kids-meals">Kids' meals</option>
+          </select>
+          <button id="map-toggle" type="button" class="bar-action outline" aria-expanded="false" aria-controls="map-wrap">Show map</button>
+        </section>
+
+        <div id="map-wrap" hidden>
+          <div id="map" aria-label="Map of food bank locations"></div>
+          <p class="map-note">Map imagery loads from OpenStreetMap when opened.</p>
+        </div>
+
+        <ul id="results" class="results"></ul>
+      </div>
+    </main>
+  </div>
+
+  <footer>
+    <p>
+      Made with care for neighbors in need. Listings are community-verified — please confirm hours before visiting.
+      ZIP data © <a href="https://www.geonames.org/" rel="noopener">GeoNames</a> (CC-BY 4.0).
+      Map data © <a href="https://www.openstreetmap.org/copyright" rel="noopener">OpenStreetMap</a> contributors.
+    </p>
+  </footer>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,109 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "foodbank.schema.json",
+  "title": "Food Bank",
+  "description": "A single food bank or food pantry listing. One file per organization in data/foodbanks/, named {state}-{city}-{slug}.json matching the id field.",
+  "type": "object",
+  "required": ["id", "name", "address", "lat", "lng", "services", "lastVerified"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z]{2}-[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Lowercase kebab-case: {state}-{city}-{name-slug}, e.g. tx-dallas-crossroads-community-services. Must match the filename (without .json)."
+    },
+    "name": { "type": "string", "minLength": 2, "maxLength": 120 },
+    "address": {
+      "type": "object",
+      "required": ["street", "city", "state", "zip"],
+      "additionalProperties": false,
+      "properties": {
+        "street": { "type": "string", "minLength": 3 },
+        "street2": { "type": "string" },
+        "city": { "type": "string", "minLength": 2 },
+        "state": { "type": "string", "pattern": "^[A-Z]{2}$" },
+        "zip": { "type": "string", "pattern": "^[0-9]{5}(-[0-9]{4})?$" }
+      }
+    },
+    "lat": { "type": "number", "minimum": 17.5, "maximum": 71.5 },
+    "lng": { "type": "number", "minimum": -180, "maximum": -64.5 },
+    "phone": { "type": "string", "pattern": "^\\(?[0-9]{3}\\)?[ .-]?[0-9]{3}[ .-]?[0-9]{4}$" },
+    "website": { "type": "string", "pattern": "^https?://[^\\s\"'<>]+$" },
+    "email": { "type": "string", "pattern": "^[^@\\s]+@[^@\\s]+\\.[^@\\s]+$" },
+    "hours": {
+      "type": "array",
+      "description": "Regular weekly hours when food is distributed. Leave empty and use hoursNotes for irregular schedules.",
+      "items": {
+        "type": "object",
+        "required": ["day", "open", "close"],
+        "additionalProperties": false,
+        "properties": {
+          "day": { "enum": ["mon", "tue", "wed", "thu", "fri", "sat", "sun"] },
+          "open": { "type": "string", "pattern": "^([01][0-9]|2[0-3]):[0-5][0-9]$" },
+          "close": { "type": "string", "pattern": "^([01][0-9]|2[0-3]):[0-5][0-9]$" }
+        }
+      }
+    },
+    "hoursNotes": {
+      "type": "string",
+      "description": "Free text for schedules the hours array cannot express, e.g. '2nd and 4th Saturday of each month'."
+    },
+    "services": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "enum": [
+          "food-pantry",
+          "hot-meals",
+          "mobile-pantry",
+          "groceries",
+          "snap-assistance",
+          "senior-boxes",
+          "kids-meals",
+          "clothing",
+          "other"
+        ]
+      }
+    },
+    "requirements": {
+      "type": "string",
+      "description": "Plain-language description of anything a visitor needs (ID, proof of address, appointment). Empty or absent means walk-ins welcome."
+    },
+    "idRequired": { "type": ["boolean", "null"] },
+    "appointmentRequired": { "type": ["boolean", "null"] },
+    "serviceAreaRestricted": {
+      "type": ["boolean", "null"],
+      "description": "True if only residents of certain ZIP codes / cities are served."
+    },
+    "affiliation": {
+      "type": "string",
+      "description": "Informational only (e.g. a church or denomination). Listings must serve everyone regardless of belief; religious participation may never be a condition of receiving food."
+    },
+    "languages": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Languages spoken by staff/volunteers, e.g. ['English', 'Spanish']."
+    },
+    "timezone": {
+      "type": "string",
+      "pattern": "^[A-Za-z_]+/[A-Za-z_/]+$",
+      "description": "IANA timezone the hours are in, e.g. America/Chicago. Defaults to America/Chicago (all current listings are in Texas); required in spirit for entries outside Central Time."
+    },
+    "referralHub": {
+      "type": "boolean",
+      "description": "True for regional distribution organizations (e.g. Feeding America food banks) that are not walk-up pantries themselves — shown with a distinct badge so visitors aren't sent to a warehouse."
+    },
+    "notes": { "type": "string" },
+    "lastVerified": {
+      "type": "string",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$",
+      "description": "Date the details were last checked against the organization's own site, YYYY-MM-DD."
+    },
+    "sourceUrl": {
+      "type": "string",
+      "pattern": "^https?://[^\\s\"'<>]+$",
+      "description": "Where the details were verified — the page that actually carries the facts, not just the org homepage."
+    }
+  }
+}

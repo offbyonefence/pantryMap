@@ -1,0 +1,26 @@
+{
+  "id": "tx-plano-storehouse-community-center",
+  "name": "The Storehouse Community Center (Seven Loaves Food Pantry)",
+  "address": {
+    "street": "1401 Mira Vista Blvd",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "75093"
+  },
+  "lat": 33.02157,
+  "lng": -96.81933,
+  "phone": "469-385-1813",
+  "website": "https://thestorehousecc.org/",
+  "hoursNotes": "By online appointment only; distribution has typically run Thursday late afternoon and Saturday morning — schedule online or call to confirm current slots.",
+  "services": [
+    "food-pantry",
+    "clothing",
+    "other"
+  ],
+  "requirements": "Appointment required (schedule online; show confirmation email on arrival). Eligibility based on TEFAP income guidelines; serves everyone regardless of ZIP code.",
+  "appointmentRequired": true,
+  "serviceAreaRestricted": false,
+  "notes": "Formerly The Storehouse of Collin County; serves 1,200+ families weekly. Services provided without regard to religious beliefs and without proselytizing. Also offers Joseph's Coat free clothing.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://thestorehousecc.org/seven-loaves/"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "tx-rowlett-hope-in-hand-food-pantry",
+  "name": "Hope in Hand Food Pantry (First Christian Church Rowlett)",
+  "address": {
+    "street": "7301 Miller Rd",
+    "city": "Rowlett",
+    "state": "TX",
+    "zip": "75088"
+  },
+  "lat": 32.89172,
+  "lng": -96.53205,
+  "phone": "(972) 475-3559",
+  "website": "https://www.fccrowlett.org/hope_in_hand_food_pantry",
+  "hours": [
+    {
+      "day": "mon",
+      "open": "10:00",
+      "close": "12:00"
+    },
+    {
+      "day": "tue",
+      "open": "18:00",
+      "close": "20:00"
+    },
+    {
+      "day": "wed",
+      "open": "10:00",
+      "close": "12:00"
+    },
+    {
+      "day": "thu",
+      "open": "18:00",
+      "close": "20:00"
+    },
+    {
+      "day": "sat",
+      "open": "10:00",
+      "close": "12:00"
+    }
+  ],
+  "services": [
+    "food-pantry",
+    "groceries"
+  ],
+  "requirements": "Photo ID and a utility bill showing current address; must reside in Rowlett, Garland, Sachse, or Rockwall. Assistance available once every 7 days; no pre-registration needed.",
+  "idRequired": true,
+  "appointmentRequired": false,
+  "serviceAreaRestricted": true,
+  "affiliation": "Christian (Disciples of Christ)",
+  "notes": "Drive-through model: stay in your vehicle and food is brought to you.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://www.fccrowlett.org/receiving_assistance"
+}

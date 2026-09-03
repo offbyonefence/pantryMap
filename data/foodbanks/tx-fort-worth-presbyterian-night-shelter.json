@@ -1,0 +1,25 @@
+{
+  "id": "tx-fort-worth-presbyterian-night-shelter",
+  "name": "Presbyterian Night Shelter",
+  "address": {
+    "street": "2400 Cypress St",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76102"
+  },
+  "lat": 32.74468,
+  "lng": -97.31375,
+  "phone": "817-632-7400",
+  "website": "https://www.journeyhome.org/",
+  "hoursNotes": "Emergency shelter open 24/7 with meals for residents; True Worth Place day shelter and resource center open 7am–3pm daily.",
+  "services": [
+    "hot-meals",
+    "other"
+  ],
+  "requirements": "Serves people experiencing homelessness; no length-of-stay restrictions.",
+  "appointmentRequired": false,
+  "affiliation": "Presbyterian roots (serves all)",
+  "notes": "Largest homeless services provider in Tarrant County, serving 750+ people nightly.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://www.journeyhome.org/"
+}

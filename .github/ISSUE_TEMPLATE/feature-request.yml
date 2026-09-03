@@ -1,0 +1,26 @@
+name: Feature request
+description: Suggest an improvement to the site or the data.
+title: "Feature: "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+      description: Focus on the person trying to find food — what gets in their way today?
+      placeholder: "People without smartphones can't ... / There's no way to filter by ..."
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+    validations:
+      required: true
+  - type: textarea
+    id: privacy
+    attributes:
+      label: Privacy check
+      description: >
+        This site makes no external requests and never tracks users. If your idea needs
+        an outside service, say so here — it will be weighed against that guarantee.

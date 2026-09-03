@@ -1,0 +1,38 @@
+{
+  "id": "tx-denton-denton-community-food-center",
+  "name": "Denton Community Food Center",
+  "address": {
+    "street": "306 N Loop 288",
+    "city": "Denton",
+    "state": "TX",
+    "zip": "76209",
+    "street2": "Suite 400"
+  },
+  "lat": 33.21681,
+  "lng": -97.08975,
+  "phone": "940-382-0807",
+  "website": "https://www.dentoncfc.org/",
+  "hours": [
+    {
+      "day": "mon",
+      "open": "10:30",
+      "close": "12:15"
+    },
+    {
+      "day": "wed",
+      "open": "10:30",
+      "close": "12:15"
+    }
+  ],
+  "hoursNotes": "By appointment only — register and book online through PantrySoft; arrive no more than 15 minutes early.",
+  "services": [
+    "food-pantry"
+  ],
+  "requirements": "Appointment required; food available once monthly. First visit: bring photo ID showing a current address in the City of Denton or northern Denton County. SNAP recipients automatically qualify.",
+  "idRequired": true,
+  "appointmentRequired": true,
+  "serviceAreaRestricted": true,
+  "notes": "All-volunteer community food center operating since 1974.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://www.dentoncfc.org/"
+}

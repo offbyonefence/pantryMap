@@ -1,0 +1,25 @@
+{
+  "id": "tx-fort-worth-tarrant-area-food-bank",
+  "name": "Tarrant Area Food Bank",
+  "address": {
+    "street": "2600 Cullen St",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76107"
+  },
+  "lat": 32.76239,
+  "lng": -97.35354,
+  "phone": "817-857-7100",
+  "website": "https://tafb.org/",
+  "hoursNotes": "Not a walk-up pantry at this address — TAFB distributes through 400+ partner agencies across 13 counties. Use the Find Food map at tafb.org to locate a nearby pantry or mobile distribution.",
+  "services": [
+    "mobile-pantry",
+    "snap-assistance",
+    "other"
+  ],
+  "requirements": "Varies by partner agency and program.",
+  "notes": "Feeding America regional food bank. Operates the RED Bus mobile grocery serving Arlington and Fort Worth, senior box program, and SNAP application help.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://tafb.org/",
+  "referralHub": true
+}

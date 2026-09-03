@@ -1,0 +1,30 @@
+{
+  "id": "tx-dallas-salvation-army-carr-p-collins",
+  "name": "The Salvation Army Carr P. Collins Social Service Center",
+  "address": {
+    "street": "5302 Harry Hines Blvd",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75235"
+  },
+  "lat": 32.81364,
+  "lng": -96.83746,
+  "phone": "214-424-7050",
+  "website": "https://salvationarmyntx.org/north-texas/carr-p-collins-social-service-center/",
+  "hours": [
+    {
+      "day": "wed",
+      "open": "08:30",
+      "close": "10:30"
+    }
+  ],
+  "hoursNotes": "Drive-through food pantry on Wednesday mornings.",
+  "services": [
+    "food-pantry"
+  ],
+  "requirements": "Once per week per family; groceries provided based on household size.",
+  "affiliation": "Christian (The Salvation Army)",
+  "notes": "Large social service campus also offering emergency shelter and seasonal cooling/warming stations.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://salvationarmyntx.org/north-texas/carr-p-collins-social-service-center/"
+}

@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+set -euo pipefail
+#MISE description="Composite: every quality check natively (fast, no Docker needed)"
+#MISE depends=["lint:all", "test", "build"]
+
+echo "Local CI checks passed."

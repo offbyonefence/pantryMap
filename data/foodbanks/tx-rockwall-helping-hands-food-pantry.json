@@ -1,0 +1,77 @@
+{
+  "id": "tx-rockwall-helping-hands-food-pantry",
+  "name": "Rockwall County Helping Hands Food Pantry",
+  "address": {
+    "street": "990 Williams St",
+    "city": "Rockwall",
+    "state": "TX",
+    "zip": "75087",
+    "street2": "Suite C"
+  },
+  "lat": 32.93583,
+  "lng": -96.44711,
+  "phone": "(972) 771-4357",
+  "website": "https://rockwallhelpinghands.com/food-pantry/",
+  "hours": [
+    {
+      "day": "mon",
+      "open": "09:30",
+      "close": "12:00"
+    },
+    {
+      "day": "mon",
+      "open": "13:00",
+      "close": "15:30"
+    },
+    {
+      "day": "tue",
+      "open": "09:30",
+      "close": "12:00"
+    },
+    {
+      "day": "tue",
+      "open": "13:00",
+      "close": "15:30"
+    },
+    {
+      "day": "wed",
+      "open": "09:30",
+      "close": "12:00"
+    },
+    {
+      "day": "wed",
+      "open": "13:00",
+      "close": "15:30"
+    },
+    {
+      "day": "thu",
+      "open": "09:30",
+      "close": "12:00"
+    },
+    {
+      "day": "thu",
+      "open": "13:00",
+      "close": "15:30"
+    },
+    {
+      "day": "fri",
+      "open": "09:30",
+      "close": "12:00"
+    },
+    {
+      "day": "fri",
+      "open": "13:00",
+      "close": "15:30"
+    }
+  ],
+  "hoursNotes": "Closed for lunch 12–1pm daily.",
+  "services": [
+    "food-pantry",
+    "groceries"
+  ],
+  "requirements": "Serves Rockwall County families; provides enough nutritious food to last 14 days.",
+  "serviceAreaRestricted": true,
+  "notes": "North Texas Food Bank partner. Client assistance/referral office is separate, at 401 W Rusk St, Ste 200.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://rockwallhelpinghands.com/food-pantry/"
+}

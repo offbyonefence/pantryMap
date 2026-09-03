@@ -1,0 +1,43 @@
+{
+  "id": "tx-dallas-salvation-army-pleasant-grove",
+  "name": "The Salvation Army Pleasant Grove Corps",
+  "address": {
+    "street": "8341 Elam Rd",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75217"
+  },
+  "lat": 32.72036,
+  "lng": -96.67675,
+  "phone": "214-398-6619",
+  "website": "https://salvationarmyntx.org/north-texas/pleasant-grove/",
+  "hours": [
+    {
+      "day": "tue",
+      "open": "09:00",
+      "close": "10:30"
+    },
+    {
+      "day": "tue",
+      "open": "13:00",
+      "close": "14:30"
+    },
+    {
+      "day": "wed",
+      "open": "09:00",
+      "close": "10:30"
+    },
+    {
+      "day": "wed",
+      "open": "13:00",
+      "close": "14:30"
+    }
+  ],
+  "services": [
+    "food-pantry"
+  ],
+  "affiliation": "Christian (The Salvation Army)",
+  "notes": "Corps community center; also offers a seasonal cooling station and youth programs.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://salvationarmyntx.org/north-texas/pleasant-grove/"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "tx-euless-6-stones-new-hope-center",
+  "name": "6 Stones New Hope Center",
+  "address": {
+    "street": "3232 W Euless Blvd",
+    "city": "Euless",
+    "state": "TX",
+    "zip": "76040",
+    "street2": "Suite 100"
+  },
+  "lat": 32.83575,
+  "lng": -97.08772,
+  "phone": "817-868-7400",
+  "website": "https://www.6stones.org/get-help/",
+  "hours": [
+    {
+      "day": "tue",
+      "open": "15:00",
+      "close": "18:00"
+    },
+    {
+      "day": "wed",
+      "open": "10:00",
+      "close": "13:00"
+    },
+    {
+      "day": "thu",
+      "open": "09:00",
+      "close": "12:00"
+    },
+    {
+      "day": "sat",
+      "open": "09:00",
+      "close": "12:00"
+    }
+  ],
+  "hoursNotes": "Thursday morning hours are for seniors (60+) only. Appointments via 6stones.org/new-hope-center.",
+  "services": [
+    "food-pantry"
+  ],
+  "requirements": "Serves families living in Hurst, Euless, or Bedford.",
+  "appointmentRequired": true,
+  "serviceAreaRestricted": true,
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://www.6stones.org/get-help/"
+}

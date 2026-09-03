@@ -1,0 +1,25 @@
+{
+  "id": "tx-fort-worth-broadway-baptist-agape-meal",
+  "name": "Broadway Baptist Church — Agape Meal",
+  "address": {
+    "street": "305 W Broadway Ave",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76104"
+  },
+  "lat": 32.74089,
+  "lng": -97.32868,
+  "phone": "817-336-5761",
+  "website": "https://broadwaybc.org/",
+  "hoursNotes": "Free sit-down dinner every Thursday evening at 6pm; tickets available from 4pm at the Baptist Center breezeway on the May St side of the church.",
+  "services": [
+    "hot-meals"
+  ],
+  "requirements": "Open to anyone experiencing homelessness or financial hardship; no cost.",
+  "idRequired": false,
+  "appointmentRequired": false,
+  "affiliation": "Baptist",
+  "notes": "Banquet-style weekly dinner running since 1995, serving roughly 175 guests each week.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://fortworthreport.org/2025/05/29/baptist-church-in-near-southside-celebrates-30-years-of-free-meals-fellowship-for-people-in-need/"
+}

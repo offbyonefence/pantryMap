@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -euo pipefail
+#MISE description="Build and serve the site locally"
+#MISE depends=["build"]
+#USAGE flag "-p --port <port>" default="3663" help="Port to serve on (default 3663 = FOOD)"
+
+cd "$MISE_PROJECT_ROOT"
+PORT="${usage_port:-3663}" bun scripts/serve.mjs

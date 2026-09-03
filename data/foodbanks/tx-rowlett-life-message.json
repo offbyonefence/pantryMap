@@ -1,0 +1,51 @@
+{
+  "id": "tx-rowlett-life-message",
+  "name": "Life Message",
+  "address": {
+    "street": "4501 Rowlett Rd",
+    "city": "Rowlett",
+    "state": "TX",
+    "zip": "75088"
+  },
+  "lat": 32.90155,
+  "lng": -96.57016,
+  "phone": "(972) 475-9800",
+  "website": "https://lifemessage.org/",
+  "hours": [
+    {
+      "day": "mon",
+      "open": "12:00",
+      "close": "16:00"
+    },
+    {
+      "day": "wed",
+      "open": "12:00",
+      "close": "16:00"
+    },
+    {
+      "day": "thu",
+      "open": "11:00",
+      "close": "13:00"
+    },
+    {
+      "day": "fri",
+      "open": "12:00",
+      "close": "16:00"
+    }
+  ],
+  "hoursNotes": "Thursday 11am–1pm is for seniors (60+) only; closed Tuesday.",
+  "services": [
+    "food-pantry",
+    "groceries",
+    "clothing",
+    "senior-boxes"
+  ],
+  "requirements": "Register as a client with a picture ID. All food assistance is free; no restrictions based on ZIP code, city, or income.",
+  "idRequired": true,
+  "appointmentRequired": false,
+  "serviceAreaRestricted": false,
+  "affiliation": "Christian (faith-based nonprofit)",
+  "notes": "Also operates a thrift store at the same address. Serves Rowlett, Garland, and Sachse residents (no ZIP restriction).",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://lifemessage.org/contact-us"
+}

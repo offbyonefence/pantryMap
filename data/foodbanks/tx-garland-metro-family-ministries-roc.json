@@ -1,0 +1,28 @@
+{
+  "id": "tx-garland-metro-family-ministries-roc",
+  "name": "Metro Family Ministries — The ROC",
+  "address": {
+    "street": "3375 Edgewood Dr",
+    "city": "Garland",
+    "state": "TX",
+    "zip": "75042"
+  },
+  "lat": 32.91406,
+  "lng": -96.68032,
+  "phone": "972-272-1002",
+  "website": "https://www.rocgarland.org",
+  "hoursNotes": "Pantry distributions the 1st Thursday and 3rd Saturday of each month, 9:30am–1:30pm (per directory listing) — call to confirm. Office hours Mon–Thu 10am–5:30pm.",
+  "services": [
+    "food-pantry",
+    "clothing",
+    "other"
+  ],
+  "requirements": "Photo ID verifying Garland residency.",
+  "idRequired": true,
+  "appointmentRequired": false,
+  "serviceAreaRestricted": true,
+  "affiliation": "Christian (nondenominational ministry)",
+  "notes": "Re'Creation Outreach Center: community center with a clothes closet, food pantry, and children's programs.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://www.rocgarland.org/about-us"
+}

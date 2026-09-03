@@ -1,0 +1,51 @@
+{
+  "id": "tx-arlington-arlington-charities",
+  "name": "Arlington Charities",
+  "address": {
+    "street": "811 Secretary Dr",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76015"
+  },
+  "lat": 32.70306,
+  "lng": -97.11772,
+  "phone": "817-275-1511",
+  "website": "https://arlingtoncharities.org/",
+  "hours": [
+    {
+      "day": "mon",
+      "open": "08:30",
+      "close": "13:30"
+    },
+    {
+      "day": "tue",
+      "open": "08:30",
+      "close": "13:30"
+    },
+    {
+      "day": "wed",
+      "open": "08:30",
+      "close": "13:30"
+    },
+    {
+      "day": "thu",
+      "open": "08:30",
+      "close": "13:30"
+    },
+    {
+      "day": "fri",
+      "open": "08:30",
+      "close": "11:30"
+    }
+  ],
+  "services": [
+    "food-pantry",
+    "mobile-pantry",
+    "other"
+  ],
+  "requirements": "Serves residents of Arlington ZIPs 76001–76019, Grand Prairie 75050–75052 and 75054 (Tarrant County portion), and Kennedale 76060.",
+  "serviceAreaRestricted": true,
+  "notes": "Arlington's largest supplemental food provider. Also runs a Market Truck mobile distribution and home delivery program.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://arlingtoncharities.org/"
+}

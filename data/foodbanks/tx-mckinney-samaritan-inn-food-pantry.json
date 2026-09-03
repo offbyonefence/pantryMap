@@ -1,0 +1,49 @@
+{
+  "id": "tx-mckinney-samaritan-inn-food-pantry",
+  "name": "The Samaritan Inn Food Pantry",
+  "address": {
+    "street": "1601 N Waddill Street",
+    "city": "McKinney",
+    "state": "TX",
+    "zip": "75069"
+  },
+  "lat": 33.21246,
+  "lng": -96.62586,
+  "phone": "972-542-5302",
+  "website": "https://saminn.org/food-pantry/",
+  "hours": [
+    {
+      "day": "tue",
+      "open": "10:00",
+      "close": "14:45"
+    },
+    {
+      "day": "wed",
+      "open": "10:00",
+      "close": "14:45"
+    },
+    {
+      "day": "thu",
+      "open": "10:00",
+      "close": "14:45"
+    },
+    {
+      "day": "fri",
+      "open": "09:00",
+      "close": "13:45"
+    }
+  ],
+  "hoursNotes": "Closed 1–1:30pm Tue–Thu for restocking. Saturday mobile pantry stops at several McKinney churches — see website for the schedule.",
+  "services": [
+    "food-pantry",
+    "mobile-pantry",
+    "other"
+  ],
+  "requirements": "New clients bring photo ID and proof of current address (digital photos accepted; proof of address waived for unhoused individuals). Serves northern Collin County communities.",
+  "idRequired": true,
+  "appointmentRequired": false,
+  "serviceAreaRestricted": true,
+  "notes": "Formerly Community Lifeline Center, integrated into The Samaritan Inn in late 2025; grocery-style pantry plus homelessness prevention and rent/utility assistance.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://saminn.org/food-pantry/"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "tx-rockwall-this-is-your-season-ministries",
+  "name": "This Is Your Season Ministries Food Pantry",
+  "address": {
+    "street": "3023 Interstate 30 East Frontage Rd",
+    "street2": "Suite 1200",
+    "city": "Rockwall",
+    "state": "TX",
+    "zip": "75087"
+  },
+  "lat": 32.92745,
+  "lng": -96.39466,
+  "phone": "(469) 975-3210",
+  "website": "https://www.thisisyourseason.org/",
+  "hoursNotes": "Published schedules conflict (3rd Thursday 10am–12pm vs. Wednesdays 10:30am–12:45pm) — call ahead to confirm.",
+  "services": ["food-pantry", "groceries"],
+  "requirements": "Serves families in Rockwall County and surrounding communities.",
+  "affiliation": "Christian (non-denominational ministry)",
+  "notes": "Current North Texas Food Bank Rockwall County partner agency; dry goods, canned and boxed goods, drinks, and meat when available.",
+  "lastVerified": "2026-09-02",
+  "sourceUrl": "https://www.foodpantries.org/li/this_is_your_season_ministries_75087"
+}
