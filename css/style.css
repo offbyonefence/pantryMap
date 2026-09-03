@@ -78,6 +78,27 @@ a { color: var(--accent); }
 
 /* ============ Landing hero — full-viewport, centered ============ */
 
+#landing { position: relative; }
+
+.repo-link {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--muted);
+  text-decoration: none;
+  transition: color 150ms ease;
+}
+.repo-link:hover {
+  color: var(--text);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
 .hero {
   min-height: 100svh;
   display: flex;

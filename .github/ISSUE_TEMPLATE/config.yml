@@ -4,5 +4,5 @@ contact_links:
     url: https://www.211.org
     about: Don't wait on a GitHub issue — call 211 or use 211.org for free, confidential help finding food today.
   - name: 🔒 Report a security vulnerability
-    url: https://github.com/pantrymap/pantrymap.github.io/security/advisories/new
+    url: https://github.com/offbyonefence/pantryMap/security/advisories/new
     about: Please report exploitable issues privately, not as public issues.
