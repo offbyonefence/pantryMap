@@ -1,0 +1,20 @@
+{
+  "id": "tx-fort-worth-new-rising-star-baptist",
+  "name": "New Rising Star Baptist Church",
+  "address": {
+    "street": "5000 Wichita St",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76119"
+  },
+  "lat": 32.68794,
+  "lng": -97.28094,
+  "phone": "817-531-2835",
+  "hoursNotes": "1st day of each month, 9:00–11:00am.",
+  "services": [
+    "food-pantry"
+  ],
+  "affiliation": "Baptist",
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

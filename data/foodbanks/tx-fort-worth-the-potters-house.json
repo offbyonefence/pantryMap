@@ -1,0 +1,19 @@
+{
+  "id": "tx-fort-worth-the-potters-house",
+  "name": "The Potter's House",
+  "address": {
+    "street": "1270 Woodhaven Blvd",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76112"
+  },
+  "lat": 32.76275,
+  "lng": -97.24022,
+  "phone": "817-446-1999",
+  "hoursNotes": "1st Saturday of the month, 8:00–10:00am.",
+  "services": [
+    "food-pantry"
+  ],
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

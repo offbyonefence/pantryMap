@@ -1,0 +1,37 @@
+{
+  "id": "tx-fort-worth-broadway-baptist-food-pantry",
+  "name": "Broadway Baptist Church — Food Pantry",
+  "address": {
+    "street": "305 W Broadway Ave",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76104"
+  },
+  "lat": 32.74089,
+  "lng": -97.32868,
+  "phone": "817-336-5761",
+  "hours": [
+    {
+      "day": "tue",
+      "open": "10:30",
+      "close": "12:30"
+    },
+    {
+      "day": "thu",
+      "open": "10:30",
+      "close": "12:30"
+    },
+    {
+      "day": "fri",
+      "open": "09:30",
+      "close": "11:30"
+    }
+  ],
+  "services": [
+    "food-pantry"
+  ],
+  "affiliation": "Baptist",
+  "notes": "The church's Thursday-evening Agape Meal is listed separately.",
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tx-dallas-mission-oak-cliff",
+  "name": "Mission Oak Cliff",
+  "address": {
+    "street": "111 S Beckley Ave",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75203"
+  },
+  "lat": 32.74485,
+  "lng": -96.82294,
+  "hours": [
+    {
+      "day": "mon",
+      "open": "13:00",
+      "close": "15:00"
+    },
+    {
+      "day": "tue",
+      "open": "13:00",
+      "close": "15:00"
+    },
+    {
+      "day": "wed",
+      "open": "13:00",
+      "close": "15:00"
+    },
+    {
+      "day": "thu",
+      "open": "13:00",
+      "close": "15:00"
+    }
+  ],
+  "services": [
+    "food-pantry"
+  ],
+  "requirements": "Photo ID required.",
+  "idRequired": true,
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

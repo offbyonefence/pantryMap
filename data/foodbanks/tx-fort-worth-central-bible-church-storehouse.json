@@ -1,0 +1,31 @@
+{
+  "id": "tx-fort-worth-central-bible-church-storehouse",
+  "name": "Central Bible Church Storehouse",
+  "address": {
+    "street": "8001 Anderson Blvd",
+    "street2": "Building B",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76120"
+  },
+  "lat": 32.76267,
+  "lng": -97.17574,
+  "hours": [
+    {
+      "day": "tue",
+      "open": "12:00",
+      "close": "18:00"
+    },
+    {
+      "day": "thu",
+      "open": "12:00",
+      "close": "18:00"
+    }
+  ],
+  "services": [
+    "food-pantry"
+  ],
+  "affiliation": "Central Bible Church",
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/nnuyziq/"
+}

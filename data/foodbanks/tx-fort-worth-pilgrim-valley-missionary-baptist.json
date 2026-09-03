@@ -1,0 +1,20 @@
+{
+  "id": "tx-fort-worth-pilgrim-valley-missionary-baptist",
+  "name": "Pilgrim Valley Missionary Baptist Church",
+  "address": {
+    "street": "4800 S Riverside Dr",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76119"
+  },
+  "lat": 32.69211,
+  "lng": -97.29984,
+  "phone": "817-986-7360",
+  "hoursNotes": "2nd Saturday of the month, 9:00am–12:00pm.",
+  "services": [
+    "food-pantry"
+  ],
+  "affiliation": "Baptist",
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

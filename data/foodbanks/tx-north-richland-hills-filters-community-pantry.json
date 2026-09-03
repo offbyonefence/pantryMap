@@ -1,0 +1,58 @@
+{
+  "id": "tx-north-richland-hills-filters-community-pantry",
+  "name": "Community Pantry at Filter's Cigar and Smoke Shop",
+  "address": {
+    "street": "8401 Boulevard 26",
+    "street2": "Ste 9",
+    "city": "North Richland Hills",
+    "state": "TX",
+    "zip": "76180"
+  },
+  "lat": 32.84263,
+  "lng": -97.20211,
+  "hours": [
+    {
+      "day": "mon",
+      "open": "11:00",
+      "close": "20:00"
+    },
+    {
+      "day": "tue",
+      "open": "11:00",
+      "close": "20:00"
+    },
+    {
+      "day": "wed",
+      "open": "11:00",
+      "close": "20:00"
+    },
+    {
+      "day": "thu",
+      "open": "11:00",
+      "close": "20:00"
+    },
+    {
+      "day": "fri",
+      "open": "11:00",
+      "close": "20:00"
+    },
+    {
+      "day": "sat",
+      "open": "11:00",
+      "close": "20:00"
+    },
+    {
+      "day": "sun",
+      "open": "12:00",
+      "close": "17:00"
+    }
+  ],
+  "services": [
+    "food-pantry",
+    "other"
+  ],
+  "requirements": "Must be 21 or older to enter (pantry is inside a smoke shop).",
+  "notes": "Rotating stock of hygiene items, canned goods, pet food, and seed-starting kits.",
+  "lastVerified": "2026-05-23",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/onf68c6/"
+}

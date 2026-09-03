@@ -1,0 +1,19 @@
+{
+  "id": "tx-fort-worth-church-at-philadelphia",
+  "name": "Church at Philadelphia",
+  "address": {
+    "street": "4716 Wichita St",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76119"
+  },
+  "lat": 32.69383,
+  "lng": -97.28045,
+  "phone": "817-534-3770",
+  "hoursNotes": "2nd and 4th Saturday of the month, 9:00–11:00am.",
+  "services": [
+    "food-pantry"
+  ],
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

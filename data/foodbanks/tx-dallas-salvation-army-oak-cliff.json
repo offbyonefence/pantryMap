@@ -1,0 +1,31 @@
+{
+  "id": "tx-dallas-salvation-army-oak-cliff",
+  "name": "The Salvation Army Oak Cliff Food Distribution Center",
+  "address": {
+    "street": "1617 W Jefferson Blvd",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75208"
+  },
+  "lat": 32.74604,
+  "lng": -96.8475,
+  "hours": [
+    {
+      "day": "tue",
+      "open": "09:00",
+      "close": "12:00"
+    },
+    {
+      "day": "thu",
+      "open": "09:00",
+      "close": "12:00"
+    }
+  ],
+  "services": [
+    "food-pantry"
+  ],
+  "requirements": "Must bring a utility bill.",
+  "affiliation": "The Salvation Army",
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

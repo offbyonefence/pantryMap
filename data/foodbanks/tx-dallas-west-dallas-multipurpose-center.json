@@ -1,0 +1,30 @@
+{
+  "id": "tx-dallas-west-dallas-multipurpose-center",
+  "name": "West Dallas Multipurpose Center",
+  "address": {
+    "street": "2828 Fish Trap Rd",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75212"
+  },
+  "lat": 32.77746,
+  "lng": -96.86026,
+  "hours": [
+    {
+      "day": "tue",
+      "open": "09:00",
+      "close": "17:00"
+    },
+    {
+      "day": "fri",
+      "open": "09:00",
+      "close": "17:00"
+    }
+  ],
+  "services": [
+    "food-pantry"
+  ],
+  "notes": "Food distribution hosted by Dallas College.",
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

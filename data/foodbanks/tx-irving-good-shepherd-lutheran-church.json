@@ -1,0 +1,26 @@
+{
+  "id": "tx-irving-good-shepherd-lutheran-church",
+  "name": "Good Shepherd Lutheran Church",
+  "address": {
+    "street": "2620 W Grauwyler Rd",
+    "city": "Irving",
+    "state": "TX",
+    "zip": "75061"
+  },
+  "lat": 32.82894,
+  "lng": -96.981,
+  "hours": [
+    {
+      "day": "sat",
+      "open": "09:30",
+      "close": "12:30"
+    }
+  ],
+  "hoursNotes": "Saturday mornings.",
+  "services": [
+    "food-pantry"
+  ],
+  "affiliation": "Lutheran",
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

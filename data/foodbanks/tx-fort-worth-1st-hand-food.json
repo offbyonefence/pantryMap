@@ -1,0 +1,36 @@
+{
+  "id": "tx-fort-worth-1st-hand-food",
+  "name": "1st HAND Food",
+  "address": {
+    "street": "1516 Hemphill St",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76104"
+  },
+  "lat": 32.72729,
+  "lng": -97.33187,
+  "hours": [
+    {
+      "day": "mon",
+      "open": "11:30",
+      "close": "13:30"
+    },
+    {
+      "day": "wed",
+      "open": "11:30",
+      "close": "13:30"
+    },
+    {
+      "day": "thu",
+      "open": "11:30",
+      "close": "13:30"
+    }
+  ],
+  "hoursNotes": "Sack lunches Monday, Wednesday, and Thursday 11:30am–1:30pm; hot breakfast Mondays at 9am.",
+  "services": [
+    "hot-meals"
+  ],
+  "notes": "Listed on the Westside Food Distribution Calendar; some pantries may require proof of residency and/or ID — call ahead to confirm.",
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

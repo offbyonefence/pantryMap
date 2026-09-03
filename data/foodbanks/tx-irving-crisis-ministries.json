@@ -1,0 +1,44 @@
+{
+  "id": "tx-irving-crisis-ministries",
+  "name": "Crisis Ministries",
+  "address": {
+    "street": "114 E 2nd St",
+    "city": "Irving",
+    "state": "TX",
+    "zip": "75060"
+  },
+  "lat": 32.81281,
+  "lng": -96.94556,
+  "hours": [
+    {
+      "day": "mon",
+      "open": "10:00",
+      "close": "13:15"
+    },
+    {
+      "day": "tue",
+      "open": "10:00",
+      "close": "13:15"
+    },
+    {
+      "day": "wed",
+      "open": "10:00",
+      "close": "13:15"
+    },
+    {
+      "day": "thu",
+      "open": "10:00",
+      "close": "13:15"
+    },
+    {
+      "day": "fri",
+      "open": "10:00",
+      "close": "13:15"
+    }
+  ],
+  "services": [
+    "food-pantry"
+  ],
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

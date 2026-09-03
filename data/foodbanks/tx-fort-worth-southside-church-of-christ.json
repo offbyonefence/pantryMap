@@ -1,0 +1,20 @@
+{
+  "id": "tx-fort-worth-southside-church-of-christ",
+  "name": "Southside Church of Christ",
+  "address": {
+    "street": "2101 Hemphill St",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76110"
+  },
+  "lat": 32.72111,
+  "lng": -97.33148,
+  "phone": "817-923-8276",
+  "hoursNotes": "Tuesdays, starting 9:30am.",
+  "services": [
+    "food-pantry"
+  ],
+  "affiliation": "Church of Christ",
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "tx-arlington-taste-project",
+  "name": "Taste Project Arlington",
+  "address": {
+    "street": "200 N Cooper St",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76011"
+  },
+  "lat": 32.73802,
+  "lng": -97.11495,
+  "hours": [
+    {
+      "day": "wed",
+      "open": "11:00",
+      "close": "14:00"
+    },
+    {
+      "day": "thu",
+      "open": "11:00",
+      "close": "14:00"
+    },
+    {
+      "day": "fri",
+      "open": "11:00",
+      "close": "14:00"
+    },
+    {
+      "day": "sun",
+      "open": "09:00",
+      "close": "14:00"
+    }
+  ],
+  "services": [
+    "hot-meals"
+  ],
+  "notes": "Pay-what-you-can nonprofit restaurant — no one is turned away.",
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "tx-dallas-oak-cliff-churches-emergency-aid",
+  "name": "Oak Cliff Churches for Emergency Aid",
+  "address": {
+    "street": "123 S Llewellyn Ave",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75208"
+  },
+  "lat": 32.74489,
+  "lng": -96.83223,
+  "hours": [
+    {
+      "day": "tue",
+      "open": "10:00",
+      "close": "12:00"
+    },
+    {
+      "day": "wed",
+      "open": "10:00",
+      "close": "12:00"
+    }
+  ],
+  "services": [
+    "food-pantry"
+  ],
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "tx-fort-worth-federated-womens-clubs",
+  "name": "Fort Worth Association of Federated Women's Clubs",
+  "address": {
+    "street": "1051 Evans Ave",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76104"
+  },
+  "lat": 32.73338,
+  "lng": -97.31805,
+  "hoursNotes": "1st Friday of the month, 10:00am–2:00pm.",
+  "services": [
+    "food-pantry"
+  ],
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

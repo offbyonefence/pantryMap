@@ -1,0 +1,20 @@
+{
+  "id": "tx-fort-worth-galatians-missionary-baptist",
+  "name": "Galatians Missionary Baptist Church",
+  "address": {
+    "street": "4140 Burke Rd",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76119"
+  },
+  "lat": 32.70349,
+  "lng": -97.25575,
+  "phone": "817-944-5259",
+  "hoursNotes": "3rd Saturday of the month, starting 9:00am.",
+  "services": [
+    "food-pantry"
+  ],
+  "affiliation": "Baptist",
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

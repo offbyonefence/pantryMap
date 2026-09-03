@@ -1,0 +1,27 @@
+{
+  "id": "tx-fort-worth-restoration-center",
+  "name": "Restoration Center",
+  "address": {
+    "street": "3100 Las Vegas Tr",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76116"
+  },
+  "lat": 32.72836,
+  "lng": -97.46744,
+  "hours": [
+    {
+      "day": "tue",
+      "open": "10:30",
+      "close": "13:30"
+    }
+  ],
+  "hoursNotes": "Food pantry Tuesdays 10:30am–1:30pm; mobile food pantry the 1st Saturday of the month, 12–2pm.",
+  "services": [
+    "food-pantry",
+    "mobile-pantry"
+  ],
+  "notes": "Listed on the Westside Food Distribution Calendar; some pantries may require proof of residency and/or ID — call ahead to confirm.",
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

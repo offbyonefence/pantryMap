@@ -1,0 +1,19 @@
+{
+  "id": "tx-fort-worth-purpose-driven-ministries",
+  "name": "Purpose Driven Ministries",
+  "address": {
+    "street": "200 Pennsylvania Ave",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76104"
+  },
+  "lat": 32.73807,
+  "lng": -97.32837,
+  "phone": "817-446-3278",
+  "hoursNotes": "Published schedules conflict: Monday, Tuesday, and Friday 8:00–11:00am per one November 2025 flyer; 3rd Saturday of the month 9:00am–12:00pm (817-657-8182) per another. Call ahead.",
+  "services": [
+    "food-pantry"
+  ],
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

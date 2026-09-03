@@ -1,0 +1,46 @@
+{
+  "id": "tx-fort-worth-west-aid-food-pantry",
+  "name": "West Aid Food Pantry",
+  "address": {
+    "street": "2800 Cherry Ln",
+    "street2": "Suite 106",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76116"
+  },
+  "lat": 32.73387,
+  "lng": -97.45081,
+  "hours": [
+    {
+      "day": "mon",
+      "open": "09:00",
+      "close": "12:00"
+    },
+    {
+      "day": "tue",
+      "open": "09:00",
+      "close": "12:00"
+    },
+    {
+      "day": "wed",
+      "open": "09:00",
+      "close": "12:00"
+    },
+    {
+      "day": "thu",
+      "open": "09:00",
+      "close": "12:00"
+    },
+    {
+      "day": "fri",
+      "open": "09:00",
+      "close": "12:00"
+    }
+  ],
+  "services": [
+    "food-pantry"
+  ],
+  "notes": "Listed on the Westside Food Distribution Calendar; some pantries may require proof of residency and/or ID — call ahead to confirm.",
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

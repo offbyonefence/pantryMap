@@ -1,0 +1,18 @@
+{
+  "id": "tx-fort-worth-it-take-a-village-mobile",
+  "name": "It Take a Village Mobile",
+  "address": {
+    "street": "4401 S Riverside Dr",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76119"
+  },
+  "lat": 32.69905,
+  "lng": -97.30476,
+  "hoursNotes": "1st Saturday of the month, 9:30–11:30am.",
+  "services": [
+    "mobile-pantry"
+  ],
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

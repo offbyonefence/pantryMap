@@ -1,0 +1,56 @@
+{
+  "id": "tx-fort-worth-funky-town-fridge-chapin-rd",
+  "name": "Funky Town Fridge (Chapin Rd)",
+  "address": {
+    "street": "8700 Chapin Rd",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76116"
+  },
+  "lat": 32.71695,
+  "lng": -97.46751,
+  "hours": [
+    {
+      "day": "mon",
+      "open": "00:00",
+      "close": "23:59"
+    },
+    {
+      "day": "tue",
+      "open": "00:00",
+      "close": "23:59"
+    },
+    {
+      "day": "wed",
+      "open": "00:00",
+      "close": "23:59"
+    },
+    {
+      "day": "thu",
+      "open": "00:00",
+      "close": "23:59"
+    },
+    {
+      "day": "fri",
+      "open": "00:00",
+      "close": "23:59"
+    },
+    {
+      "day": "sat",
+      "open": "00:00",
+      "close": "23:59"
+    },
+    {
+      "day": "sun",
+      "open": "00:00",
+      "close": "23:59"
+    }
+  ],
+  "hoursNotes": "Community fridge, available 24/7.",
+  "services": [
+    "groceries"
+  ],
+  "notes": "Outdoor community fridge and pantry — take what you need, leave what you can.",
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

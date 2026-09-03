@@ -1,0 +1,19 @@
+{
+  "id": "tx-fort-worth-fresh-mana-church",
+  "name": "Fresh Mana Church",
+  "address": {
+    "street": "7905 Forest Hill Dr",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76140"
+  },
+  "lat": 32.63967,
+  "lng": -97.26929,
+  "phone": "817-676-1446",
+  "hoursNotes": "2nd and 4th Sunday of the month, 11:00am–12:00pm.",
+  "services": [
+    "food-pantry"
+  ],
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

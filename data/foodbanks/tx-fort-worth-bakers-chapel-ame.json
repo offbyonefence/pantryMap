@@ -1,0 +1,20 @@
+{
+  "id": "tx-fort-worth-bakers-chapel-ame",
+  "name": "Bakers Chapel AME Church",
+  "address": {
+    "street": "1050 E Humbolt St",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76104"
+  },
+  "lat": 32.73459,
+  "lng": -97.32768,
+  "phone": "817-907-8493",
+  "hoursNotes": "Every other Wednesday, 10:00am–12:00pm — call to confirm the week.",
+  "services": [
+    "food-pantry"
+  ],
+  "affiliation": "African Methodist Episcopal",
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

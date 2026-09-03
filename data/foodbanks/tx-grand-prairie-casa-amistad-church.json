@@ -1,0 +1,20 @@
+{
+  "id": "tx-grand-prairie-casa-amistad-church",
+  "name": "Casa Amistad Church",
+  "address": {
+    "street": "126 Brannon St",
+    "city": "Grand Prairie",
+    "state": "TX",
+    "zip": "75051"
+  },
+  "lat": 32.74109,
+  "lng": -97.00342,
+  "phone": "214-337-8099",
+  "hoursNotes": "2nd Thursday of the month, 10:00–10:30am.",
+  "services": [
+    "food-pantry"
+  ],
+  "affiliation": "Casa Amistad Church",
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

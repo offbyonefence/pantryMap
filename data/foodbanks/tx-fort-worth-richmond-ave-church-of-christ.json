@@ -1,0 +1,20 @@
+{
+  "id": "tx-fort-worth-richmond-ave-church-of-christ",
+  "name": "Richmond Avenue Church of Christ",
+  "address": {
+    "street": "1220 E Richmond Ave",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76104"
+  },
+  "lat": 32.72336,
+  "lng": -97.31161,
+  "phone": "817-923-4060",
+  "hoursNotes": "4th Saturday of the month, 10:00–11:00am.",
+  "services": [
+    "food-pantry"
+  ],
+  "affiliation": "Church of Christ",
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

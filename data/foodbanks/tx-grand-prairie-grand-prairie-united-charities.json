@@ -1,0 +1,40 @@
+{
+  "id": "tx-grand-prairie-grand-prairie-united-charities",
+  "name": "Grand Prairie United Charities",
+  "address": {
+    "street": "1417 Densman St",
+    "city": "Grand Prairie",
+    "state": "TX",
+    "zip": "75051"
+  },
+  "lat": 32.73524,
+  "lng": -96.9845,
+  "phone": "972-262-2014",
+  "hours": [
+    {
+      "day": "mon",
+      "open": "09:00",
+      "close": "13:00"
+    },
+    {
+      "day": "tue",
+      "open": "09:00",
+      "close": "13:00"
+    },
+    {
+      "day": "wed",
+      "open": "09:00",
+      "close": "13:00"
+    },
+    {
+      "day": "thu",
+      "open": "09:00",
+      "close": "13:00"
+    }
+  ],
+  "services": [
+    "food-pantry"
+  ],
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

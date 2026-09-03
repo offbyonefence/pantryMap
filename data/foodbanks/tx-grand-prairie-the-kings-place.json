@@ -1,0 +1,20 @@
+{
+  "id": "tx-grand-prairie-the-kings-place",
+  "name": "The King's Place",
+  "address": {
+    "street": "2133 S Great Southwest Pkwy",
+    "street2": "#507",
+    "city": "Grand Prairie",
+    "state": "TX",
+    "zip": "75051"
+  },
+  "lat": 32.71585,
+  "lng": -97.04381,
+  "phone": "682-259-0632",
+  "hoursNotes": "2nd and 4th Saturday of the month, 9:00–10:00am.",
+  "services": [
+    "food-pantry"
+  ],
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

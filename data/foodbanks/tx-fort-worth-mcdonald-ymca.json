@@ -1,0 +1,19 @@
+{
+  "id": "tx-fort-worth-mcdonald-ymca",
+  "name": "McDonald YMCA",
+  "address": {
+    "street": "2701 Moresby St",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76105"
+  },
+  "lat": 32.70831,
+  "lng": -97.28749,
+  "phone": "817-534-1591",
+  "hoursNotes": "4th Saturday of the month (except December), 11:00am–1:00pm.",
+  "services": [
+    "food-pantry"
+  ],
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

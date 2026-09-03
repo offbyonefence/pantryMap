@@ -1,0 +1,20 @@
+{
+  "id": "tx-fort-worth-north-texas-va-healthcare",
+  "name": "North Texas VA Healthcare",
+  "address": {
+    "street": "2201 SE Loop 820",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76119"
+  },
+  "lat": 32.6696,
+  "lng": -97.29895,
+  "phone": "817-730-0078",
+  "hoursNotes": "3rd Monday of the month, 8:00am–12:00pm.",
+  "services": [
+    "food-pantry"
+  ],
+  "notes": "Distribution at the VA clinic — call ahead to confirm eligibility.",
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

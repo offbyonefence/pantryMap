@@ -1,0 +1,40 @@
+{
+  "id": "tx-fort-worth-community-food-bank",
+  "name": "Community Food Bank",
+  "address": {
+    "street": "3000 Galvez Ave",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76111"
+  },
+  "lat": 32.76183,
+  "lng": -97.30352,
+  "phone": "817-924-3333",
+  "hours": [
+    {
+      "day": "mon",
+      "open": "09:00",
+      "close": "13:00"
+    },
+    {
+      "day": "tue",
+      "open": "09:00",
+      "close": "13:00"
+    },
+    {
+      "day": "wed",
+      "open": "09:00",
+      "close": "13:00"
+    },
+    {
+      "day": "thu",
+      "open": "09:00",
+      "close": "13:00"
+    }
+  ],
+  "services": [
+    "food-pantry"
+  ],
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

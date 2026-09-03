@@ -1,0 +1,19 @@
+{
+  "id": "tx-fort-worth-kingdom-manifesters-mobile",
+  "name": "Kingdom Manifesters Mobile",
+  "address": {
+    "street": "2401 McCurdy St",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76104"
+  },
+  "lat": 32.71774,
+  "lng": -97.2976,
+  "phone": "817-536-1100",
+  "hoursNotes": "3rd Saturday of the month, 9:00–10:00am.",
+  "services": [
+    "mobile-pantry"
+  ],
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

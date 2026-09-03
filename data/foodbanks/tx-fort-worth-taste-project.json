@@ -1,0 +1,50 @@
+{
+  "id": "tx-fort-worth-taste-project",
+  "name": "Taste Project (Taste Community Restaurant)",
+  "address": {
+    "street": "1200 S Main St",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76104"
+  },
+  "lat": 32.73157,
+  "lng": -97.32614,
+  "hours": [
+    {
+      "day": "tue",
+      "open": "09:00",
+      "close": "14:00"
+    },
+    {
+      "day": "wed",
+      "open": "09:00",
+      "close": "14:00"
+    },
+    {
+      "day": "thu",
+      "open": "09:00",
+      "close": "14:00"
+    },
+    {
+      "day": "fri",
+      "open": "09:00",
+      "close": "14:00"
+    },
+    {
+      "day": "sat",
+      "open": "09:00",
+      "close": "14:00"
+    },
+    {
+      "day": "sun",
+      "open": "09:00",
+      "close": "14:00"
+    }
+  ],
+  "services": [
+    "hot-meals"
+  ],
+  "notes": "Pay-what-you-can nonprofit restaurant — no one is turned away.",
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}

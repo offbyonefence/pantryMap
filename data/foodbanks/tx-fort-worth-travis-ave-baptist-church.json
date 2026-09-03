@@ -1,0 +1,26 @@
+{
+  "id": "tx-fort-worth-travis-ave-baptist-church",
+  "name": "Travis Avenue Baptist Church",
+  "address": {
+    "street": "800 W Berry St",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76110"
+  },
+  "lat": 32.70675,
+  "lng": -97.33269,
+  "phone": "817-924-4266",
+  "hours": [
+    {
+      "day": "fri",
+      "open": "08:30",
+      "close": "10:00"
+    }
+  ],
+  "services": [
+    "food-pantry"
+  ],
+  "affiliation": "Baptist",
+  "lastVerified": "2025-11-08",
+  "sourceUrl": "https://www.reddit.com/r/FortWorth/comments/1os3xwm/lots_of_folks_asking_for_food_bank_information/"
+}
