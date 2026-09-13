@@ -1,0 +1,35 @@
+{
+  "id": "tx-plano-iacc-food-bank",
+  "name": "IACC Food Bank (Plano Masjid)",
+  "address": {
+    "street": "6401 Independence Pkwy",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "75023"
+  },
+  "lat": 33.05957,
+  "lng": -96.75067,
+  "phone": "972-491-5800",
+  "website": "https://planomasjid.org/food-bank/",
+  "email": "FoodBank@planomasjid.org",
+  "hours": [
+    {
+      "day": "sat",
+      "open": "07:30",
+      "close": "10:30"
+    }
+  ],
+  "hoursNotes": "Weekly Saturday morning distribution; drive-thru and walk-up both available.",
+  "services": [
+    "food-pantry",
+    "snap-assistance",
+    "other"
+  ],
+  "requirements": "Open to everyone regardless of background or faith. No appointment necessary.",
+  "appointmentRequired": false,
+  "serviceAreaRestricted": false,
+  "affiliation": "Islamic Association of Collin County",
+  "notes": "Fresh produce, fresh meats, and pantry staples; diapers and formula when in stock. Staff also help with SNAP and WIC forms. The mosque runs free health and dental clinics for the uninsured: https://planomasjid.org/health-clinics",
+  "lastVerified": "2026-09-13",
+  "sourceUrl": "https://planomasjid.org/food-bank/"
+}
