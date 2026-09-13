@@ -56,6 +56,8 @@ in sync when changing checks.
 - `data/schema/foodbank.schema.json` — the data contract; `scripts/lib/validate-lib.mjs`
   is a zero-dependency validator implementing the subset of JSON Schema the contract uses.
 - `vendor/` — self-hosted Leaflet and Inter fonts (licenses inside; keep them).
+- `assets/` — static images such as the social preview (`social-preview.jpg`, 1200×600,
+  referenced by absolute URL in the `og:image` / `twitter:image` meta tags).
 - `tests/` — bun tests. Use timezone-explicit dates (`-05:00`); "open now" logic is
   evaluated in each listing's `timezone` (default America/Chicago), never the visitor's.
 

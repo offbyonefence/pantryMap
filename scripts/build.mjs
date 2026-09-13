@@ -22,7 +22,7 @@ await writeFile(
   JSON.stringify({ generated: new Date().toISOString().slice(0, 10), count: entries.length, foodbanks: entries })
 );
 
-for (const item of ["index.html", "css", "js", "vendor", "data/zips.json"]) {
+for (const item of ["index.html", "css", "js", "vendor", "assets", "data/zips.json"]) {
   await cp(path.join(ROOT, item), path.join(DIST, item), { recursive: true });
 }
 // Tells GitHub Pages to serve files as-is (no Jekyll processing).
